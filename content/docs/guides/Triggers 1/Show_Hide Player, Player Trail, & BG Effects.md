@@ -1,5 +1,5 @@
 ---
-title: Show_Hide Player, Player Trail, & BG Effects
+title: Show/Hide Player, Player Trail, & BG Effects
 weight: 331
 draft: false
 ---
@@ -43,11 +43,5 @@ The BG Effect Off trigger disables this effect.
 <div><iframe src=https://drive.google.com/file/d/1b9hkxacu0jc6m14zCspE1zvftLQPmFhI/preview?usp=drivesdk></iframe></div>
 
 
-## Return to the [Table of Contents](https://discord.com/channels/414295025883545600/1194070164497510440/1194070164497510440) here
-
-Changed the channel name: Show/Hide Player, Player Trail, & BG Effects
-
-
-
 ## Credits
-Created by @TDP9 and @koma5
+Created by @koma5
