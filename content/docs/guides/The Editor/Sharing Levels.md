@@ -32,7 +32,7 @@ Leaving the level name empty will give you its default name "Unnamed". For Descr
 
 Once that is settled, delete any start pos triggers, and verify your level. If you have user coins, you’ll need to collect them too before uploading your level.
 
-<div><iframe src=https://drive.google.com/file/d/1BGtQTyejX5or7TQkoWUaOUqz5rb0mrem/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1BGtQTyejX5or7TQkoWUaOUqz5rb0mrem" >}}
 
 # 3: Public vs Unlisted
 

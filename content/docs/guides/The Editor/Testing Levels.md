@@ -25,21 +25,21 @@ This button lets you quickly play your level from your latest StartPos, and mark
 
 When playtesting, you can pause the level by clicking the button on the left hand side, and you can stop playtesting by clicking the button.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1LWwGPPl6zjkn1DbANV0NmQeMf3guYDaO/preview?usp=drivesdk></iframe></div>
+{{< youtube SrveoQuJfCs >}}
 
 ## :MusicPlaytest: Music Playtest
 The Music Playtest button is right above the Editor Playtest button, and below the Undo/Redo buttons, once again on the left of the screen.
 
 This button plays a green line, starting from the very left of your screen. It also plays the music of the level, following along with the green line. The green line is affected by the arrow triggers, speed changes, and other gameplay altering features.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/19wNTABgRRLeWDIcq6HKREjBJJsvgK5eO/preview?usp=drivesdk></iframe></div>
+{{< youtube 0YBbfBrUYBk >}}
 
 # 2: Pause/Options Features
 
 These are the playtesting-related features that you’ll find by pausing the editor and/or going into the options menu.
 ## Pause Menu
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1N0VgDu5MUQjNZtim33n0sQ2wso-kkDam/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1N0VgDu5MUQjNZtim33n0sQ2wso-kkDam" >}}
 
 - **Ignore Damage:** Allows you to playtest the level without taking damage (There are still some bugs where you can die, however).
 - **Show Hitboxes:** Allows you to see hitboxes in the editor. 
@@ -47,14 +47,14 @@ These are the playtesting-related features that you’ll find by pausing the edi
 *Note that Hide Invisible, Preview Mode, Preview Animations, Preview Particles, Preview Shaders, and Show Ground can also apply to :Playtest:*
 ## Options Menu (Page 1)
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1S2qGHyKBozXaYJ-03X7tjOj7Q6nCgCBe/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1S2qGHyKBozXaYJ-03X7tjOj7Q6nCgCBe" >}}
 
 - **Playtest Music:**  Plays the music whenever you playtest.
 - **Playtest No Grid:**  Removes the grid when playtesting.
 - **Playtest No UI:** Removes the editor's user interface (UI) when playtesting.
 ## Options Menu (Page 2)
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Ka-79HJpEeer8GE3Y6AhDx9oCCLR_Cpk/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Ka-79HJpEeer8GE3Y6AhDx9oCCLR_Cpk" >}}
 
 - **Show Clicks:** Shows a small orange square wherever you click; keep in mind that this isn’t completely accurate, as using a spider orb or a spider click will put the orange square a bit after.
 - **Hide Path:** This removes the green path whenever you playtest.
@@ -66,9 +66,11 @@ These are the playtesting-related features that you’ll find by pausing the edi
 
 When playing your level in practice mode, pause and click the options menu. There will be an option called “Show Hitboxes,” which enables you to see the hitboxes of the level only in practice mode.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1YcFchUwJZndfPw_wciH5ROQ2R9Wy2TDm/preview?usp=drivesdk></iframe></div>
 
 In addition, you can purchase the Practice Music Unlock feature in the Diamond Shop, which allows you to listen to the actual song in practice mode. This opens up practice mode as another viable form of playtesting if you want.
+
+
+{{< img src="https://lh3.googleusercontent.com/d/1YcFchUwJZndfPw_wciH5ROQ2R9Wy2TDm" >}}
 
 # 4: Show Info Label
 
@@ -76,7 +78,8 @@ Alongside Show Hitboxes in the previous section, Show Info Label is an option th
 
 You can enable it in the in-game pause menu in the gear icon at the top right. Ticking it reveals 21 descriptions for any given level at the left side of the screen.
 
-<div><iframe src=https://drive.google.com/file/d/1UNr0YSmLQFaL1irqRmXhmD0ttqXot8of/preview?usp=drivesdk></iframe></div>
+
+{{< img src="https://lh3.googleusercontent.com/d/1UNr0YSmLQFaL1irqRmXhmD0ttqXot8of" >}}
 
 ## Normal Descriptions
 
