@@ -1,6 +1,9 @@
 ---
 title: Perspective 1 (Basics)
 weight: 820
+contributors:
+- KDE
+- koma5
 draft: false
 ---
 {{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
@@ -80,12 +83,5 @@ The example below shows how rotated forms look in 2-point perspective. Rotating 
 <div><iframe src=https://drive.google.com/file/d/1c8UkdUcuuQzynNMKimf1dr4m6kAGI3XU/preview?usp=drivesdk></iframe></div>
 
 
-## Sources
+# Sources
 - [Drawabox Part 1, Lesson 1](<https://drawabox.com/lesson/1/6/123pointperspective>)
-
-Changed the channel name: Perspective 1: Basics
-
-
-
-## Credits
-Created by @KDE and @koma5

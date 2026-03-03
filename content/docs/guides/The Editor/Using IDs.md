@@ -1,6 +1,10 @@
 ---
 title: Using IDs
 weight: 117
+contributors:
+- InfernuZ
+- koma5
+- Selena
 draft: false
 
 seo:
@@ -9,7 +13,6 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Medium** (10-12 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - IDs give objects specific roles in levels.
@@ -206,5 +209,3 @@ Luckily, we have a [logistics template](https://docs.google.com/spreadsheets/d/1
 
 Of course, this is optional. Unless you have an ambitious project where you need a variety of IDs for your details or trigger setups, let this template serve as a guide.
 
-## Credits
-Created by @InfernuZ, @Selena and @koma5

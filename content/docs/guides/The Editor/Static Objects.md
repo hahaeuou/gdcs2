@@ -1,6 +1,9 @@
 ---
 title: Static Objects
 weight: 109
+contributors:
+- DangerChampion
+- Xplode
 draft: false
 
 seo:
@@ -9,7 +12,6 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (7-9 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Static objects are objects in the GD editor that have hitboxes the play can interact with; they include: blocks, slopes, spikes, and saws.
@@ -215,7 +217,7 @@ In addition to these objects, you can modify their properties to your liking. To
 
 {{< img src="https://lh3.googleusercontent.com/d/1gob0D7oJ2paa3UpK-rDPjKTWVq9zZ5kx" >}}
 
-{{< youtube Tfcru5SFdKE >}} 
+{{< youtube Tfcru5SFdKE >}}
 
 - **Passable** __allows the player to pass through a block from the bottom, but still allows the players to stand on the block__. You can move onto the top from below too.
 
@@ -258,6 +260,3 @@ In addition to these objects, you can modify their properties to your liking. To
 {{< img src="https://lh3.googleusercontent.com/d/1PV8LK4QG3ToTXgWZVFIoXmvRopaIkMXH" >}}
 
 {{< youtube -7X9YNVWyb0 >}}
-
-## Credits
-Created by @DangerChampion and @Xplode

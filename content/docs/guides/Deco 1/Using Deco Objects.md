@@ -1,9 +1,10 @@
 ---
 title: Using Deco Objects
 weight: 501
+contributors:
+- koma5
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (9-11 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - All decoration is made with shapes, and all shapes are made from objects. You can use a variety of methods to create your own custom shapes and curves, which usually comes down to choosing objects and dissecting them to make shapes.
@@ -172,7 +173,3 @@ Finally, note that you can use low opacity copies of objects to create blurred s
 
 **Video:** [How To DECORATE in Geometry Dash!](https://youtu.be/3ofZI82lKQ8?si=a5bXL1ilq24c9C_N)
 
-
-
-## Credits
-Created by @koma5

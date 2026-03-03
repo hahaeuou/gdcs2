@@ -1,10 +1,11 @@
 ---
 title: Using Channels
 weight: 118
+contributors:
+- sovereign
+- Vexilo
 draft: false
 ---
-## Guide info
-Short: 8-10 minutes
 
 ## TLDR - What this guide covers
 - Color channels are important devices to color objects. You can edit your object’s colors by clicking :EditObject:.
@@ -97,7 +98,7 @@ Keep in mind that reversed orbs and teleport orbs all affect the music line but 
 
 ## Trigger Channels
 
-Using the menu above in the :ArrowTrigger:, you can change the target channel of the level. The level constantly runs on a certain channel, and triggers will only be able to activate *if their channel matches the current channel*. 
+Using the menu above in the :ArrowTrigger:, you can change the target channel of the level. The level constantly runs on a certain channel, and triggers will only be able to activate *if their channel matches the current channel*.
 
 To change the level’s channel, open the menu of the arrow trigger, enable “Change Channel,” and select your channel using the counter that appears below.
 
@@ -108,8 +109,3 @@ You can set the channel of triggers with the “CH” counter in the :EditGroup:
 > Note: Both orders and channels require the “EDP” or "Playtest" box checked in the :EditGroup: menu.
 
 
-
-
-
-## Credits
-Created by @Vexilo and @sovereign

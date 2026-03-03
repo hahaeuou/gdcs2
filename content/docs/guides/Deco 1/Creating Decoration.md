@@ -1,9 +1,11 @@
 ---
 title: Creating Decoration
 weight: 507
+contributors:
+- koma5
+- NotAModerator
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Medium** (11-13 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Recursive Decoration is a concept where objects are used more intricately the more complexity we add, structured much like an anthill may be constructed.
@@ -165,10 +167,4 @@ The level of **cohesion** in your work is __how much each deco element works wit
 {{< youtube ufrg38442gw >}}
 
 
-
 **Video:** https://youtu.be/3ofZI82lKQ8?si=a5bXL1ilq24c9C_N
-
-
-
-## Credits
-Created by @NotAModerator and @koma5

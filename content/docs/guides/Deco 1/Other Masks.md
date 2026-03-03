@@ -1,9 +1,10 @@
 ---
 title: Other Masks
 weight: 517
+contributors:
+- Unknown
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
 # 1: Saturation Cancel Mask
 
@@ -157,7 +158,3 @@ You can add color to the effect, by overlaying gradients and low opacity colors.
 
 - This guide explains some miscellaneous masks, which we didn't cover in the prior guides.
 
-
-
-## Credits
-Created by @Unknown

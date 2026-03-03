@@ -1,10 +1,11 @@
 ---
 title: Testing Levels
 weight: 116
+contributors:
+- Madzz
+- sovereign
 draft: false
 ---
-## Guide info
-Short: 6-8 minutes
 
 ## TLDR - What this guide covers
 - The editor playtest allows you to play your level within the editor and music playtest enables you to hear the music.
@@ -19,7 +20,7 @@ These are playtesting-related features that you will encounter while in the edit
 
 ## :Playtest: Editor Playtest
 
-The Editor Playtest button is on the left hand side of the screen, in between the Music Playtest and Zoom In/Out buttons. 
+The Editor Playtest button is on the left hand side of the screen, in between the Music Playtest and Zoom In/Out buttons.
 
 This button lets you quickly play your level from your latest StartPos, and marks your movements with a green line. This is a useful feature that saves time and helps you keep track of the player's movement in order to build your gameplay. *Keep in mind that the physics are slightly different in the editor and it is advised to still playtest your level in normal mode.*
 
@@ -42,7 +43,7 @@ These are the playtesting-related features that you’ll find by pausing the edi
 {{< img src="https://lh3.googleusercontent.com/d/1N0VgDu5MUQjNZtim33n0sQ2wso-kkDam" >}}
 
 - **Ignore Damage:** Allows you to playtest the level without taking damage (There are still some bugs where you can die, however).
-- **Show Hitboxes:** Allows you to see hitboxes in the editor. 
+- **Show Hitboxes:** Allows you to see hitboxes in the editor.
 
 *Note that Hide Invisible, Preview Mode, Preview Animations, Preview Particles, Preview Shaders, and Show Ground can also apply to :Playtest:*
 ## Options Menu (Page 1)
@@ -74,7 +75,7 @@ In addition, you can purchase the Practice Music Unlock feature in the Diamond S
 
 # 4: Show Info Label
 
-Alongside Show Hitboxes in the previous section, Show Info Label is an option that you can enable when you’re playing the game and you want to view the level’s status. It’s the equivalent of Show Object Info but from the player’s perspective. 
+Alongside Show Hitboxes in the previous section, Show Info Label is an option that you can enable when you’re playing the game and you want to view the level’s status. It’s the equivalent of Show Object Info but from the player’s perspective.
 
 You can enable it in the in-game pause menu in the gear icon at the top right. Ticking it reveals 21 descriptions for any given level at the left side of the screen.
 
@@ -133,9 +134,3 @@ The last 4 are different in the sense that they are expressed as fractions. The 
 
 - **ColOp:** Estimates how many active objects are affected by either the area fade or area tint trigger. If the same objects are affected by both area fade and area tint, the ColOp denominator will double.
 
-
-
-
-
-## Credits
-Created by @Madzz and @sovereign

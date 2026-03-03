@@ -1,9 +1,11 @@
 ---
 title: Color 1 (Basics)
 weight: 801
+contributors:
+- Gustron
+- KDE
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Colors are represented by Hue, Saturation, and Value.
@@ -90,14 +92,9 @@ The final gradient would look like this, with the brighter areas being directly 
 <div><iframe src=https://drive.google.com/file/d/161PFVrvFXVIzmGkKw-HfAJDqdo2IULrH/preview?usp=drivesdk></iframe></div>
 
 
-## Sources
+# Sources
 - James Gurney: *Color and Light*, Pages 73-78
 
-Changed the channel name: Color 1: Basics
 
 **Video:** https://www.youtube.com/watch?v=P2r4Z5kbx7M
 
-
-
-## Credits
-Created by @Gustron and @KDE

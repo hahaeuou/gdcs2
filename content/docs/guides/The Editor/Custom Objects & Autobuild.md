@@ -1,10 +1,11 @@
 ---
 title: Custom Objects & Autobuild
 weight: 114
+contributors:
+- NotAModerator
+- TDP9
 draft: false
 ---
-## Guide info
-Short: 5-7 minutes
 
 ## TLDR - What this guide covers
 - Custom objects are groups of objects that can be placed as a whole anywhere in a level. These can be useful for merging collab parts or speeding up the designing process.
@@ -55,7 +56,7 @@ The “Special” button is meant to automatically create decorations using bloc
 
 ## Smart Template Designs and Variations
 
-Upon filling a template, the designs added can be browsed and edited when you press the “Edit” button on a template in the smart template page. There, you can press “Browse” to view the designs. 
+Upon filling a template, the designs added can be browsed and edited when you press the “Edit” button on a template in the smart template page. There, you can press “Browse” to view the designs.
 
 The number on the top right of the designs shows how many variations it has. Clicking on empty designs will paste them into the editor, allowing you to fill them out. Clicking on filled out designs will bring you to a menu that shows all variations of the design present. You can paste selected designs into the editor using the “Create” button, delete variations, or change the chance for variations to occur.
 
@@ -76,8 +77,3 @@ Any decoration within an autoblock will count as a variation, with any changes a
 - **Don’t Delete**: Keeps Autobuild blocks after pasting designs instead of deleting them from the editor. This is helpful for pasting multiple templates without the hassle of placing the blocks back.
 
 
-
-
-
-## Credits
-Created by @NotAModerator and @TDP9

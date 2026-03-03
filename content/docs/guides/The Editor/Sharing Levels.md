@@ -1,10 +1,11 @@
 ---
 title: Sharing Levels
 weight: 106
+contributors:
+- koma5
+- Selena
 draft: false
 ---
-## Guide info
-Short: 4-6 minutes
 
 ## TLDR - What this guide covers
 - > • When you’re on the main level page, you can use the rightmost button to upload your level.
@@ -16,7 +17,7 @@ Short: 4-6 minutes
 
 # 1: The Main Page
 
-When you first create a new level, or exit from the editor, you will be directed to this page. 
+When you first create a new level, or exit from the editor, you will be directed to this page.
 
 Notice the three big buttons at the center. From left to right, the tools button leads you to the editor, the yellow play button puts you in the level, and the red curvy arrow button is the upload button that will allow you to share your level.
 
@@ -24,7 +25,7 @@ None
 
 # 2: Level Name and Description
 
-Above the three big buttons are the Level Name and Description. 
+Above the three big buttons are the Level Name and Description.
 
 Level Name is your level’s title. The Description allows you to explain your level with more detail.
 
@@ -56,7 +57,7 @@ If you successfully upload your level, you will receive the official level ID th
 
 # 4: :CopiedLevel: and :RedPlus: stickers
 
-You might have noticed that some levels have the :CopiedLevel: and :RedPlus: sticker placed on the right of the level name. 
+You might have noticed that some levels have the :CopiedLevel: and :RedPlus: sticker placed on the right of the level name.
 
 If a level has a :CopiedLevel: sticker, it means it was originally copied from an existing level in the server. The original ID will also be displayed alongside the new copied ID. Many would assume that a level with C means it is stolen. And you’d be correct sometimes, but other times it's used for collabs. In order to merge collab parts together, creators will need to share the level as unlisted and copying these parts will give you that C sticker too.
 
@@ -85,7 +86,3 @@ None
 
 None
 
-
-
-## Credits
-Created by @Selena and @koma5

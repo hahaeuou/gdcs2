@@ -1,10 +1,10 @@
 ---
 title: Communicating
 weight: 217
+contributors:
+- koma5
 draft: true
 ---
-## Guide info
-Tiny: 2-4 minutes
 
 ## TLDR - What this guide covers
 - Communication is important if you want to work with other Geometry Dash players. This includes working inside a collab, asking for feedback or playtesters, and anything else along those lines.
@@ -28,10 +28,3 @@ This is ESPECIALLY true when working in a collaboration, as you’ll have to sha
 
 Finally, don’t be rude. This is another thing which goes without saying, but when you communicate, please make sure that you’re being respectful. Otherwise, you’re unlikely to get anything meaningful out of trying to communicate in the first place.
 
-
-## Return To The [Table of Contents](https://discord.com/channels/414295025883545600/1083455263517978654/1083455263517978654) Here
-
-
-
-## Credits
-Created by @koma5

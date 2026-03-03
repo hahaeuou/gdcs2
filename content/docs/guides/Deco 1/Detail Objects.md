@@ -1,9 +1,11 @@
 ---
 title: Detail Objects
 weight: 503
+contributors:
+- Aquarware
+- koma5
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (3-5 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Detail Objects are those that the player cannot interact with, and are usually used to enhance decoration.
@@ -101,10 +103,3 @@ None
 *Higher Z Layer and same Z Order:*
 
 None
-
-
-
-
-
-## Credits
-Created by @Aquarware and @koma5

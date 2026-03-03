@@ -1,10 +1,11 @@
 ---
 title: Staying Patient
 weight: 209
+contributors:
+- koma5
+- Selena
 draft: false
 ---
-## Guide info
-Short: 6-8 minutes
 
 ## TLDR - What this guide covers
 - Patience is a key ingredient when it comes to creating in Geometry Dash.
@@ -68,8 +69,3 @@ What would you do? Do you:
 - Immediately fire them and seek a new replacement?
 
 There's no clear-cut answer to this question as different situations and context encourage one answer over another. Also, depending on your leadership style, you will comfortably lean on one over another.
-
-
-
-## Credits
-Created by @Selena and @koma5

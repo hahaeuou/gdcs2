@@ -1,9 +1,11 @@
 ---
 title: Particle System
 weight: 512
+contributors:
+- Half
+- koma5
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - While the particle system has a plethora of options, most of them are fairly self-explanatory.
@@ -129,8 +131,3 @@ The **C** button doesn't have a purpose at the time of writing. Alternatively, t
 <div><iframe src=https://drive.google.com/file/d/1gJPc8xcaoP4Yo_bzHRN7qYFB3T_viuk-/preview?usp=drivesdk></iframe></div>
 
 **Video:** [Geometry Dash 2.2’s CRAZY Particle Editor!](https://youtu.be/-744rW8WKmA?si=vBVz6hIJr860AnKz)
-
-
-
-## Credits
-Created by @Half and @koma5

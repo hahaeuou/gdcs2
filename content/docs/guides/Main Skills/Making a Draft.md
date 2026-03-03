@@ -1,10 +1,11 @@
 ---
 title: Making a Draft
 weight: 203
+contributors:
+- koma5
+- Selena
 draft: false
 ---
-## Guide info
-Short: 5-7 minutes
 
 ## TLDR - What this guide covers
 - A Minimum Viable Product (MVP) is the most bare-bones version of your level's idea.
@@ -57,15 +58,10 @@ In fact, you don’t need to put much thought into your placeholders at all. For
 
 In short, make something playable, really. **Visuals and glamor are secondary**.
 
-
-## Sources
+# Sources
 
 - [Game Maker's Toolkit: Why is it so hard to make game design decisions?](<https://youtu.be/eE05LjNNenQ>)
 - [Gamedeveloper: Making Lean Startup Tactics Work for Games](<https://www.gamedeveloper.com/business/making-lean-startup-tactics-work-for-games>)
 - [Gamingshift: Build MVPs for games](<https://gamingshift.com/build-mvp-for-games/>)
 - [Mental Checkpoint: The Last Game Dev Advice You Need](<https://youtu.be/L-zKm6c8_IE>)
 
-
-
-## Credits
-Created by @Selena and @koma5

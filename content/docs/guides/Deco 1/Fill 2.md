@@ -1,10 +1,11 @@
 ---
 title: Fill 2
 weight: 505
+contributors:
+- koma5
+- ThunderBat
 draft: false
 ---
-## Guide info
-Short: 3-5 minutes
 
 ## TLDR - What this guide covers
 - There are two types of gradients: **Exterior** and **Interior**.
@@ -90,7 +91,3 @@ Additionally, you should play around with how you use gradients. You can stack t
 
 <div><iframe src=https://drive.google.com/file/d/1rIscaXtVmqIDOedZdCm6yQyzhhbP4kGQ/preview?usp=drivesdk></iframe></div>
 
-
-
-## Credits
-Created by @ThunderBat and @koma5

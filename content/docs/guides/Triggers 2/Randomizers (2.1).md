@@ -92,7 +92,7 @@ Here's what it should look like.
 
 This randomizer does not require any player input, and is fully random. However, it only supports 2 outcomes, requires Shake to be enabled, and cannot be playtested in the editor.
 
-**Sources:**
+# Sources
 
 > • <https://youtu.be/LbPYygtpxJk>
 > • <https://youtu.be/guOzs1aU_Us>

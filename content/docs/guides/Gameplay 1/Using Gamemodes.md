@@ -1,9 +1,11 @@
 ---
 title: Using Gamemodes
 weight: 401
+contributors:
+- koma5
+- ontos
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Long** (20-24 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Everything you do in gameplay, especially your gamemode choices, should be with a purpose.
@@ -277,11 +279,5 @@ Lastly, here’s a video of the entire level if you’re interested in seeing ho
 
 {{< youtube FGAftuAcquM >}}
 
-
-
 **Video:** https://youtu.be/Se2KWB1XgfE?si=tkpneccEJD-VfMcv
 
-
-
-## Credits
-Created by @koma5 and @ontos

@@ -1,10 +1,11 @@
 ---
 title: Object Types
 weight: 108
+contributors:
+- Selena
+- sovereign
 draft: false
 ---
-## Guide info
-Short: 5-7 minutes
 
 ## TLDR - What this guide covers
 - The Build Tab has 14 different tabs that contain lots of different object types
@@ -123,10 +124,3 @@ The custom tab allows you to combine lots of other objects into one singular cus
 {{< img src="https://lh3.googleusercontent.com/d/1ghSJ-1QYzs21H8jsfZVXI_dSN37Z5st-" >}}
 
 > **```*Note: these are just my saved assets, yours will probably look different```**
-
-
-
-
-
-## Credits
-Created by @Selena and @sovereign

@@ -1,9 +1,11 @@
 ---
 title: Color 5 (Human Perception)
 weight: 805
+contributors:
+- etherail
+- sku
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (6-8 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Our eyes contain rods and cones which let us perceive color. Color blindness occurs when a cone malfunctions.
@@ -111,11 +113,4 @@ If you stare at the cyan circle for long enough and then look at the orange squa
 
 
 
-Changed the channel name: Color 5: Human Perception
-
 **Video:** https://youtu.be/P2r4Z5kbx7M?si=P8PvmVByUQ6W_Ocy&t=478
-
-
-
-## Credits
-Created by @etherail and @sku

@@ -1,9 +1,11 @@
 ---
 title: Low Detail Mode
 weight: 519
+contributors:
+- Selena
+- Unknown
 draft: true
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (9-11 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Levels tend to lag due to high object densities and complex object properties, especially with trigger usage.
@@ -55,7 +57,7 @@ With that said, you can make objects only appear in Low Detail Mode if you set a
 
 ## 1b) Toggles
 
-If High Detail is too unintuitive to use, you can create your own custom LDM with toggle triggers. 
+If High Detail is too unintuitive to use, you can create your own custom LDM with toggle triggers.
 
 Following that idea, sometimes you might want to give the players more customization in which details could be set to LDM. You can even use collectible objects or toggle orbs to activate said LDM. For example, in Sedulous by Samifying, there are 4 different detail modes:
 1. Full Detail Mode
@@ -144,7 +146,7 @@ In the context of glow objects, gradient trigger overlays are usually less laggy
 
 In the case of trigger usage for visual effects, there are 3 points worth noting for the current update: misusing shaders, particle objects, and link visible trigger.
 
-## 1. Shaders 
+## 1. Shaders
 
 Due to how shaders are rendered, they can create severe lag when activated. For example, Rage Quit’s split screen transition creates an unfortunate lag for lower-end devices. In contrast, Change of Scene had little to none of those issues. The real kicker here is that Rage Quit has half the object count of Change of Scene, which makes this lag all the more fascinating.
 
@@ -171,10 +173,3 @@ Note that this works significantly better if you use a lot of Editor layers. Thi
 Here is an example of this process.
 
 {{< youtube NMwzuKoi3Nk >}}
-
-                   ~~
-
-
-
-## Credits
-Created by @Selena and @Unknown

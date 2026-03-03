@@ -1,10 +1,11 @@
 ---
 title: Transforming Objects
 weight: 115
+contributors:
+- koma5
+- Vexilo
 draft: false
 ---
-## Guide info
-Short: 4-6 minutes
 
 ## TLDR - What this guide covers
 - The edit tab is home to all the tools needed for transforming objects in the editor.
@@ -54,7 +55,7 @@ For example, if you want a slope to face in the opposite direction, you need to 
 
 # 3: :Rotate: Rotation Buttons
 
-The **rotation buttons** __let you turn objects about their center__. 
+The **rotation buttons** __let you turn objects about their center__.
 
 The rotation buttons are all labeled with large circular arrows, some with text on them:
 - No text: 90 degree rotations clockwise or counter-clockwise
@@ -80,9 +81,3 @@ The scale buttons have a lock above their sliders, as of Update 2.203. Enabling 
 - The “Warp” button (Ctrl+T) lets you transform an object to infinite size as well as skewing. Drag the circle in the middle to set the center for scaling and skewing. Then, use the side buttons to scale your object horizontally or vertically, the corners to scale both at once, and the side rectangles to skew. The lock button retains the object’s aspect ratio when using the corner buttons, and the circle outside the warp UI rotates it just like Free Rotate.
 
 {{< youtube raqA0Goipr4 >}}
-
-
-
-
-## Credits
-Created by @Vexilo and @koma5

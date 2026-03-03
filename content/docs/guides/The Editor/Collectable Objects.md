@@ -1,10 +1,11 @@
 ---
 title: Collectable Objects
 weight: 111
+contributors:
+- naem
+- NotAModerator
 draft: false
 ---
-## Guide info
-Tiny: 1-3 minutes
 
 ## TLDR - What this guide covers
 - We discussed the properties and functions of collectable items.
@@ -34,9 +35,3 @@ To edit the properties of the collectable you need to click on edit special. Thi
 
 Also found in this tab is the Silver User Coin. Its edit special menu is different from the rest of the collectable objects and is instead the same as the [Animated Objects’](/docs/guides/deco-1/animated-objects/) edit special menu.
 
-
-
-
-
-## Credits
-Created by @NotAModerator and @naem

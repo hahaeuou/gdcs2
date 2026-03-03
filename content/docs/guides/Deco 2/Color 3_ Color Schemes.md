@@ -1,9 +1,11 @@
 ---
 title: Color 3 (Color Schemes)
 weight: 803
+contributors:
+- etherail
+- sku
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (8-10 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Understanding high and low contrast is crucial for managing the energy in your work.
@@ -163,14 +165,9 @@ This is an example of what you don’t want your gamut maps to look like. There 
 <div><iframe src=https://drive.google.com/file/d/1NAv-Hu9bHZjX9NKbuHBsYagWvKI7i-6K/preview?usp=drivesdk></iframe></div>
 
 
-## Sources
+# Sources
 - James Gurney: *Color and Light*, Pages 109-129
 
-Changed the channel name: Color 3: Color Schemes
 
 **Video:** https://youtu.be/P2r4Z5kbx7M?si=CkCcKoJSW36e0Ro_&t=404
 
-
-
-## Credits
-Created by @etherail and @sku
