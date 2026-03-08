@@ -1,0 +1,18 @@
+<div class="card border shadow-sm border-20 mb-1 mt-1 hover-scale">
+    <div class="badge new-badge lightdark position-absolute" role="button"
+        style="top: 10px; right: -20px; transform: scale(1.2); width: 70px; text-align: center;"
+        data-guide="{{ .RelPermalink }}"
+        data-date="{{ .Params.date }}">
+        New!
+    </div>
+
+    <article>
+        <h2 class="h3">
+            <a class="stretched-link text-body" href="{{ .RelPermalink }}">
+                {{ partial "main/title.html" .Params.title }}
+            </a>
+        </h2>
+        {{ partial "main/contributor-blog-meta.html" . -}}
+    </article>
+
+</div>

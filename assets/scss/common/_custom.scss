@@ -4,20 +4,13 @@ img.emote {
     display: inline;
     width: 1.55rem;
     height: auto;
-    margin: 0 auto;
 }
 
 img.smallemote {
-    display: inline;
-    width: 1.35rem;
-    height: auto;
+    display: inline-flex;
+    height: 1.35rem;
+    width: auto;
     margin-left: 2px;
-    margin-bottom: 4px;
-    transition: transform 0.2s;
-}
-
-img.smallemote:hover {
-    transform: scale(1.1);
 }
 
 img.largeemote {
@@ -27,22 +20,39 @@ img.largeemote {
 }
 
 img.headingemote {
-    display: inline;
+    display: inline-flex;
     height: 4rem;
     width: auto;
-    margin: -0.2rem auto 0 auto;
-    padding-bottom: 0.3rem;
+    vertical-align: middle;
+    margin: -0.5rem auto 0 auto;
 }
 
 h2 img.headingemote {
     height: 3rem;
-    position: relative;
-    top: 0.07rem;
+    vertical-align: sub;
+    margin: -3rem auto 0 auto;
+    transform: translateY(0.5rem);
+}
+
+h4 img.headingemote {
+    height: 2rem;
+    transform: translateY(0.1rem);
 }
 
 img {
   max-width: 100%;
   height: auto;
   display: block;
-  margin: 0 auto 1.5rem auto;
+}
+
+.new-badge {
+  display: none;
+}
+
+.hover-scale {
+  transition: transform 0.2s;
+}
+
+.hover-scale:hover {
+  transform: scale(1.05);
 }

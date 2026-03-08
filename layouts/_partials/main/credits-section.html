@@ -16,7 +16,7 @@
 
     {{- if in $page.Params.authors $contributor.username -}}
       {{- $writerIcon := resources.Get "images/GDEmotes/Badges/writer.png" -}}
-      <img src="{{ $writerIcon.RelPermalink }}" class="smallemote" title="Main Writer">
+      <img src="{{ $writerIcon.RelPermalink }}" class="smallemote hover-scale" title="Main Writer">
     {{- end -}}
 
   {{- end -}}.

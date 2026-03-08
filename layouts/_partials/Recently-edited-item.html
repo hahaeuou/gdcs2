@@ -1,14 +1,16 @@
-<ul>
-{{ range  . }}
-    <li>
-        <h4 class="">
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </h4>
-        <p class="">
-           Last Edited on {{ .Lastmod.Format "2 January" }} in commit <b>"{{ with .GitInfo }}{{ .Subject }}{{ else }}[Commit description]{{ end }}"</b>, see 
-             <a href="https://github.com/organization/repo/commit/{{.GitInfo.Hash}}" target="_blank">changes</a>
-        </p>
-    </li>
-{{ end }}
-</ul>
+
+<div class="h-100 px-1.2 border rounded shadow-sm hover-scale">
+    <h4 class="h5">
+        <a class="text-decoration-none edit-title" href="{{ .RelPermalink }}">
+            {{ partial "main/title.html" .Title }}
+        </a>
+    </h4>
+    <p class="">
+        Last Edited on {{ .Lastmod.Format "2 January" }} in commit
+    <i><a href="https://github.com/organization/repo/commit/{{.GitInfo.Hash}}" target="_blank">
+        {{ with .GitInfo }}{{ .Subject }}{{ else }}[Commit description]{{ end }}
+    </a></i>
+    </p>
+</div>
+
 
