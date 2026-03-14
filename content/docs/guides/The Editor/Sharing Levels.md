@@ -1,20 +1,19 @@
 ---
-title: Sharing Levels
+title: "Sharing Levels"
 weight: 106
-date: 2023-03-20
+date: 2023-03-20T00:00:00.000Z
 authors:
-- sparktwee
+  - "sparktwee"
 contributors:
 - komatic5
 - sparktwee
 - lagwerious
 draft: false
-
 seo:
-  title: "How to Upload a Geometry Dash Level" # custom title (optional)
-  description: "An explanation of every feature you can use when uploading a GD level." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: "How to Upload a Geometry Dash Level"
+  description: "An explanation of every feature you can use when uploading a GD level."
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

@@ -1,12 +1,12 @@
 ---
-title: Blending Masks
+title: "Blending Masks"
 weight: 516
-date: 2023-10-13
+date: 2023-10-13T00:00:00.000Z
 authors:
-- unknown
+  - "unknown"
 contributors:
-- kde__
-- unknown
+  - "kde"
+  - "unknown"
 draft: false
 ---
 
