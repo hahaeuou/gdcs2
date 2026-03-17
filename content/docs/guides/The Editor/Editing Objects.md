@@ -1,6 +1,6 @@
 ---
 title: "Editing Objects"
-weight: 102
+weight: 1020
 date: 2024-02-25T00:00:00.000Z
 authors:
   - "komatic5"

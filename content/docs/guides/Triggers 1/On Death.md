@@ -1,6 +1,6 @@
 ---
 title: "On Death"
-weight: 335
+weight: 3350
 date: 2023-03-14T00:00:00.000Z
 authors:
   - "komatic5"

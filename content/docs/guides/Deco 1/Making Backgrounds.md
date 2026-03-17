@@ -1,6 +1,6 @@
 ---
 title: "Making Backgrounds"
-weight: 509
+weight: 5090
 date: 2023-06-22T00:00:00.000Z
 authors:
   - "kde"
@@ -19,7 +19,7 @@ draft: false
 
 ** **
 
-**1: Creating Fitting Backgrounds**
+# 1: Creating Fitting Backgrounds**
 
 Backgrounds should always help the block design express the key ideas or themes of a part. Their main point shouldn’t be to fill space, but to provide another way to show your ideas.
 
@@ -28,7 +28,7 @@ As an example, suppose your part takes place in a factory, where your block desi
 
 For maximum effectiveness, ensure that your background and foreground ideas aren’t too similar. Instead, use the background as an opportunity to further explore the theme. At the same time, the background should still fit together coherently with the foreground, and not stick out like a sore thumb.
 
-**2: Background Contrast**
+# 2: Background Contrast**
 
 The background must contrast from the foreground so that it is easy to distinguish between the two at simply a glance. You don’t want your blocks to blend in with the background, as that’ll make it hard to see where the gameplay is.
 
@@ -72,7 +72,7 @@ Here are some examples of levels which use brightness contrast well.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4wl_mpnIjGI" frameborder="0" allowfullscreen></iframe>
 
-**3: Creating Depth**
+# 3: Creating Depth**
 
 A background and foreground can work spectacularly together to create depth, an illusion of three dimensional space. While contrast is a crucial way to create depth, here are some other methods that weren’t discussed in the prior section.
 

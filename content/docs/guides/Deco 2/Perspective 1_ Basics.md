@@ -1,6 +1,6 @@
 ---
 title: "Perspective 1 (Basics)"
-weight: 820
+weight: 8200
 date: 2023-05-21T00:00:00.000Z
 authors:
   - "komatic5"
@@ -20,7 +20,7 @@ draft: false
 {{< /callout >}}
 
 ** **
-**1: Form**
+# 1: Form**
 
 Shapes are 2D objects bounded by lines. Forms are 3D objects bounded by shapes. Just as shapes can be made with lines and curves, forms are made by combining shapes together. The most common shapes used are quadrilaterals (four-sided shapes), ellipses, and triangles.
 
@@ -32,7 +32,7 @@ It is very useful to study real-life objects to see how these forms get combined
 
 {{< img src="https://lh3.googleusercontent.com/d/1bx-Oz3CcqCSzmhL_DL-JKSidWxL-23l1" >}}
 
-**2: Essence of Perspective**
+# 2: Essence of Perspective**
 
 **Perspective** is __how forms change shape depending on your viewpoint__. From one angle, for example, a box will appear as a square; however, from another it will resemble two trapezoids or three parallelograms. An example is shown below.
 
@@ -46,7 +46,7 @@ Perspective is ultimately an illusion created by your brain. The brain is used t
 
 With that, let’s discuss the main concepts for perspective.
 
-**3: Basics**
+# 3: Basics**
 
 The horizon line and the vanishing point are crucial concepts to grasp for a good understanding of perspective. They are a way to organize forms in relation to each other and in relation to space.
 

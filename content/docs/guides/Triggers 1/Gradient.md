@@ -1,6 +1,6 @@
 ---
 title: "Gradient"
-weight: 320
+weight: 3200
 date: 2024-01-08T00:00:00.000Z
 authors:
   - "themilkcat_tmc"

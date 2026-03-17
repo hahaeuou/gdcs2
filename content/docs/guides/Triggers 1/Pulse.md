@@ -1,6 +1,6 @@
 ---
 title: "Pulse"
-weight: 303
+weight: 3030
 date: 2024-01-08T00:00:00.000Z
 authors:
   - "electrifyxd"

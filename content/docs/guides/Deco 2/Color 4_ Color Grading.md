@@ -1,6 +1,6 @@
 ---
 title: "Color 4 (Color Grading)"
-weight: 804
+weight: 8040
 date: 2024-08-15T00:00:00.000Z
 authors:
   - "galofuf"

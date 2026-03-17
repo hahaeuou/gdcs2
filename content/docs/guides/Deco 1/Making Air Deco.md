@@ -1,6 +1,6 @@
 ---
 title: "Making Air Deco"
-weight: 510
+weight: 5100
 date: 2023-03-18T00:00:00.000Z
 authors:
   - "komatic5"
@@ -20,14 +20,14 @@ draft: false
 {{< /callout >}}
 
 ** **
-**1: Do You Need Air Deco?**
+# 1: Do You Need Air Deco?**
 
 Before we get started, it’s important to know what air deco is and when you should use it.
 **Air deco** is a __minor decoration type that should make empty spaces look less empty__. *If you want a space to not be empty, fill it with larger shapes and do not use air deco.* You also don’t have to use every type of air deco listed here, although it helps to know how to make all of them.
 
 Make sure you don’t use it as a crutch either. Since it’s a minor type of decoration, you shouldn’t dedicate a lot of time to it before everything else is done. Additionally, air deco should be simple; if you want something to be more complex, consider making it a larger object such as a block or part of the background. That way, it’d be more appreciated.
 
-**2: Arrows**
+# 2: Arrows**
 
 Arrows are pretty self-explanatory. They tend to point the player in the direction they should go. You can also be a bit cheeky and use them to mislead the player. The only requirement for arrows is that they’re simple enough to look like them. At a minimum, you should have a triangle; at a maximum, attach a line to it.
 
@@ -36,7 +36,7 @@ Here are some levels that use arrows to fill space.
 
 `friday` by `endevvor`: https://youtu.be/TIIwskoucvc >}} 
 `Luminescence` by `gradientxd`: https://youtu.be/W-pu-5b809A >}} 
-**3: Connectors**
+# 3: Connectors**
 
 Connectors link blocks to each other, or other details like saws and the ground. They can be very effective as they fill up a lot of space, especially when the blocks are on opposite sides of the screen. You’ve most certainly seen these connecting blocks to each other or the ground in a level like `Blast Processing` or `Deadlocked`.
 
@@ -55,7 +55,7 @@ The glowing squares connect the top cluster of blocks to the one on the bottom. 
 
 None
 
-**4: Particles**
+# 4: Particles**
 
 Particles are small objects that just fill up space. You can use the rotating squares in the saw tab, small glow circles, the P arrow blocks in the orb tab, or pretty much anything else to make them.
 
@@ -77,7 +77,7 @@ Additionally, notice that the rocks tend to move and rotate at different speeds.
 
 Two minutes and nine seconds in, you can see particles that are used for specific visual effects. Leaves fall from the trees, and stars shoot out of each pad when they’re touched. This is another example where the variety helps make the part look more interesting.
 
-**5: Overlays**
+# 5: Overlays**
 
 Overlays are full-screen visual effects that are, well, laid over everything else. An example would be a full-screen flash, or a gradient that you make out of glow and put on the T3 layer.
 

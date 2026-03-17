@@ -1,6 +1,6 @@
 ---
 title: "Collectable Objects"
-weight: 111
+weight: 1110
 date: 2024-01-12T00:00:00.000Z
 authors:
   - "naem.less"

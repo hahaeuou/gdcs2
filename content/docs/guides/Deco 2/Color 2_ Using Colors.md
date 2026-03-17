@@ -1,6 +1,6 @@
 ---
 title: "Color 2 (Using Colors)"
-weight: 802
+weight: 8020
 date: 2023-11-30T00:00:00.000Z
 authors:
   - "kde"

@@ -1,6 +1,6 @@
 ---
 title: "Parallax"
-weight: 518
+weight: 5180
 date: 2024-01-15T00:00:00.000Z
 authors:
   - "komatic5"

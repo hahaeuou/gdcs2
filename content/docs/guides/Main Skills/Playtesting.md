@@ -1,6 +1,6 @@
 ---
 title: "Playtesting"
-weight: 213
+weight: 2130
 date: 2023-03-14T00:00:00.000Z
 authors:
   - "tdp9"
@@ -19,7 +19,7 @@ draft: false
 
 ** **
 
-**1: Elements of Playtesting**
+# 1: Elements of Playtesting**
 
 Unlike proofreading, where the aim is to fix grammar, spelling, or content-related errors in a piece of writing, **playtesting** in Geometry Dash requires __fixing gameplay, decoration, or trigger-related issues in a level.__
 
@@ -59,7 +59,7 @@ Playtesting these elements simultaneously would be challenging, so it’s recomm
 
 In short, playtesting is iterative. Throughout the level's creation, keep testing and looking for errors to fix and repeat. This ensures that the level is well-maintained, as well as saving you the headache from redoing a part after finding out it was a complete mess in the end. Plus, you slowly gain experience and get a keen eye for mistakes to avoid in the future, to the point where you can recognize when your level is in a healthy state.
 
-**2: Getting Playtesters**
+# 2: Getting Playtesters**
 
 At this point you might be tempted to just do all of the playtesting by yourself. In practice, however, you’ll eventually get too familiar with your own level and miss some obvious flaws. It's hard to playtest a level's difficulty by yourself because you have your own skillset with the game, which doesn't always match with the general player base. You can *partly* mitigate this by using a mirror portal to flip the level around and combat your muscle memory.
 

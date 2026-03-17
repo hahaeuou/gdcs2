@@ -1,6 +1,6 @@
 ---
 title: "Optimizing"
-weight: 519
+weight: 5190
 date: 2023-06-26T00:00:00.000Z
 authors:
   - "komatic5"
@@ -20,7 +20,7 @@ draft: false
 ** **
 **Object Efficiency**, or **Optimization**, refers to decreasing the object count while keeping the visuals the same. This is important because poor optimization can often make levels far more difficult to play, and much more laggy. In this guide, we'll go over how you can optimize your decoration.
 
-**1: Efficiency Skills**
+# 1: Efficiency Skills**
 
 There are many techniques you can use to make your object use more efficient.
 
@@ -34,7 +34,7 @@ There are many techniques you can use to make your object use more efficient.
 >
 > For example, you can get away with using the wood objects in the 1st and 9th tabs instead making your own custom wood. In general, be aware that custom assets will always be more inefficient than using default objects, which include things like custom curves.
 
-**2: Reducing Objects**
+# 2: Reducing Objects**
 
 This is an algorithm which lets you reduce object counts without affecting the overall look of the deco. If applied properly, you can use half or even one-third of the prior objects, without impacting the visuals much at all.
 

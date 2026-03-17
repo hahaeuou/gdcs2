@@ -1,6 +1,6 @@
 ---
 title: "Movement Design"
-weight: 719
+weight: 7190
 date: 2024-11-30T00:00:00.000Z
 authors:
   - "interestex"

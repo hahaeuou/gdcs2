@@ -1,6 +1,6 @@
 ---
 title: "Attempt-Based Data 2 (2.1)"
-weight: 618
+weight: 6180
 date: 2024-04-19T00:00:00.000Z
 authors:
   - "typexleta"
@@ -19,7 +19,7 @@ draft: false
 {{< /callout >}}
 
 ** **
-**1: Binary Numbers**
+# 1: Binary Numbers**
 
 When we refer to the base of a counting system, we mean the maximum number of values we can put into a single column of digits. For **binary**, that base is 2, and the __only values that numbers can use are 0 and 1__. Counting in binary would go like 0, 1, 10, 11, 100, 101, 110, 111 and so on. Counting in **decimal**, or __base-10, is what we’re used to; 0, 1, 2, 3, 4, 5, and so on__.
 
@@ -43,7 +43,7 @@ For example, here’s the process of converting the number 22 back into binary:
 
 None
 
-**2: Setup**
+# 2: Setup**
 
 The setup for the save consists of four modules: the binary saves that save and load the actual binary data, a module to convert the binary values to decimal, a module to reset the saves, and a final module to convert from decimal to binary and save that. They'll need to be in that specific order within the level.
 

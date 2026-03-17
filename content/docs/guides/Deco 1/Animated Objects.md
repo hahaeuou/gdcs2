@@ -1,6 +1,6 @@
 ---
 title: "Animated Objects"
-weight: 502
+weight: 5020
 date: 2024-01-01T00:00:00.000Z
 authors:
   - "print6165"

@@ -1,6 +1,6 @@
 ---
 title: "Making Duals"
-weight: 421
+weight: 4210
 date: 2024-10-14T00:00:00.000Z
 authors:
   - "e.clypse"

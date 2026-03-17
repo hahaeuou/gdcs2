@@ -1,6 +1,6 @@
 ---
 title: "Getting Inspired"
-weight: 208
+weight: 2080
 date: 2023-04-19T00:00:00.000Z
 authors:
   - "tdp9"
@@ -18,7 +18,7 @@ draft: false
 
 ** **
 
-**1: Pre-Inspiration Work**
+# 1: Pre-Inspiration Work**
 
 Before looking for inspiration, it’s important to establish what you want to accomplish. You need to understand what you want to create in a level, whether it is gameplay, gimmicks, decoration, or even choosing a song.
 
@@ -26,7 +26,7 @@ Figure out how you want your level to look/play, and have an idea of what you wa
 
 If you’re struggling to make a level idea, the inspiration process can be helpful for that *to an extent*. Note however, that the more nebulous and broad your goals are, the less useful any particular inspiration will be.
 
-**2: Finding Inspiration**
+# 2: Finding Inspiration**
 
 You can find inspiration from many places, and it can strike at any time. The best sources will intrigue you and be enjoyable. It’s also a good idea to branch out with your inspiration when making unfamiliar things.
 
@@ -54,7 +54,7 @@ Finally, just try going outside. Nature is a huge source of inspiration for many
 
 - **Cons:** Depending on your location and circumstances, it may be difficult or impossible to visit places that are relevant to your project.
 
-**3: Using Inspiration**
+# 3: Using Inspiration**
 
 Be sure to save your inspiration sources so you don’t lose them. A Discord server or your phone’s library is a good place to store your inspiration. If you’re dealing with a real life place, I recommend recording images & videos to take with you.
 
@@ -74,7 +74,7 @@ All of a sudden we have a lot more references for this block. We can make wooden
 
 None
 
-**4: Final Tips**
+# 4: Final Tips**
 
 Keep your mind healthy. Take care of your body and mind, whether it is through exercise or by doing strategy-heavy tasks. Good mental health helps a lot when taking in sources of inspiration.
 

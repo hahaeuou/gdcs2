@@ -1,6 +1,6 @@
 ---
 title: "Gravity, Teleport, & Timewarp"
-weight: 330
+weight: 3300
 date: 2024-07-19T00:00:00.000Z
 authors:
   - "notamoderatr"

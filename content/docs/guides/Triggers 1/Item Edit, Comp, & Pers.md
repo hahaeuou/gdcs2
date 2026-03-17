@@ -1,6 +1,6 @@
 ---
 title: "Item Edit, Comp, & Pers"
-weight: 345
+weight: 3450
 date: 2023-12-30T00:00:00.000Z
 authors:
   - "komatic5"

@@ -1,6 +1,6 @@
 ---
 title: "Stacking"
-weight: 347
+weight: 3470
 date: 2023-04-04T00:00:00.000Z
 authors:
   - "komatic5"
@@ -17,7 +17,7 @@ draft: false
 {{< /callout >}}
 
 ** **
-**1: No Stacking**
+# 1: No Stacking**
 
 The following triggers cannot be stacked.
 
@@ -28,7 +28,7 @@ The following triggers cannot be stacked.
 
 Basically, any trigger that has an instantaneous effect cannot be stacked.
 
-**2: Overrides**
+# 2: Overrides**
 
 Certain types of triggers can override the effects of other active triggers.
 
@@ -50,7 +50,7 @@ These can “stack” across groups. If an object is part of multiple groups, it
 
 {{< img src="https://lh3.googleusercontent.com/d/12OCyeovd6NKT9DkaDQL-5_BXRrt8_7JQ" >}}
 
-**3: Combined Effects**
+# 3: Combined Effects**
 
 Some trigger effects can get combined depending on the types of triggers.
 

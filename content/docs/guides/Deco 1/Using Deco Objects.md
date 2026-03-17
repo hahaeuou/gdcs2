@@ -1,6 +1,6 @@
 ---
 title: "Using Deco Objects"
-weight: 501
+weight: 5010
 date: 2024-04-28T00:00:00.000Z
 authors:
   - "komatic5"

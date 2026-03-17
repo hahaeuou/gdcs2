@@ -1,6 +1,6 @@
 ---
 title: "Random & Advanced Random"
-weight: 340
+weight: 3400
 date: 2023-04-07T00:00:00.000Z
 authors:
   - "themilkcat_tmc"

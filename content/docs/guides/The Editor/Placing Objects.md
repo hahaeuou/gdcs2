@@ -1,7 +1,7 @@
 ---
 title: "Placing Objects"
 description: "A basic guide to the most important features in the GD Editor."
-weight: 101
+weight: 1010
 date: 2023-03-20T00:00:00.000Z
 authors:
   - "komatic5"

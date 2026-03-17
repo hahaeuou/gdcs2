@@ -1,6 +1,6 @@
 ---
 title: "Mechanics 2 (Gameplay Loops)"
-weight: 702
+weight: 7020
 date: 2023-12-26T00:00:00.000Z
 authors:
   - "komatic5"

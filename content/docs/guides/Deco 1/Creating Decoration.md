@@ -1,6 +1,6 @@
 ---
 title: "Creating Decoration"
-weight: 507
+weight: 5070
 date: 2024-07-19T00:00:00.000Z
 authors:
   - "komatic5"
@@ -173,4 +173,4 @@ The level of **cohesion** in your work is __how much each deco element works wit
 
 **Video:**
 
-https://youtu.be/3ofZI82lKQ8
+{{< youtube 3ofZI82lKQ8 >}}

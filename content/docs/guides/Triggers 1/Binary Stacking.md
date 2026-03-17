@@ -1,6 +1,6 @@
 ---
 title: "Binary Stacking"
-weight: 347
+weight: 3470
 date: 2023-08-14T00:00:00.000Z
 authors:
   - "komatic5"

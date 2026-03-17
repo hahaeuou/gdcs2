@@ -1,6 +1,6 @@
 ---
 title: "Color"
-weight: 302
+weight: 3020
 date: 2024-01-24T00:00:00.000Z
 authors:
   - "komatic5"

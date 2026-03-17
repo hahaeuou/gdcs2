@@ -1,6 +1,6 @@
 ---
 title: "The Rating System"
-weight: 217
+weight: 2170
 date: 2024-05-31T00:00:00.000Z
 authors:
   - "sparktwee"

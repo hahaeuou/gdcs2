@@ -1,6 +1,6 @@
 ---
 title: "Bossfight Design"
-weight: 721
+weight: 7210
 date: 2024-09-18T00:00:00.000Z
 authors:
   - "illusion2"

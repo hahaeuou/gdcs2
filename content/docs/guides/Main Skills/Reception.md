@@ -1,6 +1,6 @@
 ---
 title: "Reception"
-weight: 217
+weight: 2170
 date: 2024-08-30T00:00:00.000Z
 authors:
   - "sparktwee"

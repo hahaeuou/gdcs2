@@ -1,6 +1,6 @@
 ---
 title: "Attempt-Based Data 1 (2.1)"
-weight: 617
+weight: 6170
 date: 2024-04-19T00:00:00.000Z
 authors:
   - "typexleta"
@@ -18,7 +18,7 @@ draft: false
 {{< /callout >}}
 
 ** **
-**1: Setup**
+# 1: Setup**
 
 This setup will involve three parts: The Collision blocks themselves, the Collision triggers, and the Move triggers that make everything work.
 

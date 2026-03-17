@@ -1,6 +1,6 @@
 ---
 title: "Creating Details"
-weight: 506
+weight: 5060
 date: 2024-05-15T00:00:00.000Z
 authors:
   - "komatic5"
@@ -142,4 +142,4 @@ But overall, styles are arbitrary limitations. They’re just a visual thing whi
 
 **Video:**
 
-https://youtu.be/3ofZI82lKQ8
+{{< youtube 3ofZI82lKQ8 >}}

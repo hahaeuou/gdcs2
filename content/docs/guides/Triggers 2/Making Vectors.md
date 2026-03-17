@@ -1,6 +1,6 @@
 ---
 title: "Making Vectors"
-weight: 612
+weight: 6120
 date: 2024-11-30T00:00:00.000Z
 authors:
   - "tanhr"

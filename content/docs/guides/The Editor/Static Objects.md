@@ -1,6 +1,6 @@
 ---
 title: "Static Objects"
-weight: 109
+weight: 1090
 date: 2024-02-11T00:00:00.000Z
 authors:
   - "xplode09"

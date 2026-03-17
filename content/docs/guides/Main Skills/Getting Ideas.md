@@ -1,6 +1,6 @@
 ---
 title: "Getting Ideas"
-weight: 201
+weight: 2010
 date: 2023-03-09T00:00:00.000Z
 authors:
   - "sparktwee"

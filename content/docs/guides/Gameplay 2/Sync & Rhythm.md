@@ -1,6 +1,6 @@
 ---
 title: "Sync & Rhythm"
-weight: 708
+weight: 7080
 date: 2025-11-15T00:00:00.000Z
 authors:
   - "kde"
@@ -19,7 +19,7 @@ draft: true
 {{< /callout >}}
 
 ** **
-**1: Impact**
+# 1: Impact**
 
 Different levels of sync exist which can be classified by how much impact they have on the player.
 
@@ -36,7 +36,7 @@ You can be particular with which notes in the melody or beat to sync to. An exam
 
 Ultimately, your sync’s impact depends on how much you balance low and high impact sync. If you have the player click too often, such as a really long spam section, they’ll get burnt out. If you have them click too little and rely on low impact sync, they won’t be engaged as much.
 
-**2: Sync and Movements**
+# 2: Sync and Movements**
 
 The previous section discussed the different types of sync, with player clicks being the most impactful. However, not all clicks are made equal. Depending on the gamemode you use, some clicks will feel more impactful than others because of the visuals.
 
@@ -54,7 +54,7 @@ One benefit of classifying movements like this is you can play around and experi
 **Salamander Dance** by `Ilrell`: https://youtu.be/cbp5H6wlW0k >}} 
 Just like in the prior part, a good balance of impacts is important here. Too many high-impact movements will feel repetitive and dull after a while; similarly, too few could leave the player bored. It’s best for you to find a good balance between these two extremes.
 
-**3: Rhythm and Flow State**
+# 3: Rhythm and Flow State**
 
 Rhythm is the repetition of specific patterns. It is a usage of sync where you create click patterns to the song, and it’s typically accompanied by repeating the same gameplay elements.
 

@@ -1,6 +1,6 @@
 ---
 title: "Light 2 (Making Shadows)"
-weight: 807
+weight: 8070
 date: 2025-06-30T00:00:00.000Z
 authors:
   - "komatic5"

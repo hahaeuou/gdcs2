@@ -1,6 +1,6 @@
 ---
 title: "Enter Triggers"
-weight: 325
+weight: 3250
 date: 2024-04-03T00:00:00.000Z
 authors:
   - "eyz"

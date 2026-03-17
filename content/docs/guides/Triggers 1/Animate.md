@@ -1,6 +1,6 @@
 ---
 title: "Animate"
-weight: 319
+weight: 3190
 date: 2024-01-25T00:00:00.000Z
 authors:
   - "naem.less"

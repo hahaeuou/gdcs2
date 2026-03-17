@@ -1,6 +1,6 @@
 ---
 title: "Area Triggers"
-weight: 318
+weight: 3180
 date: 2024-04-03T00:00:00.000Z
 authors:
   - "naem.less"

@@ -1,6 +1,6 @@
 ---
 title: "Reset"
-weight: 347
+weight: 3470
 date: 2024-01-16T00:00:00.000Z
 authors:
   - "delts1550"

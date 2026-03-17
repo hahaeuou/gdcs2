@@ -1,6 +1,6 @@
 ---
 title: "Sound Design in GD"
-weight: 713
+weight: 7130
 date: 2024-09-06T00:00:00.000Z
 authors:
   - "electrifyxd"

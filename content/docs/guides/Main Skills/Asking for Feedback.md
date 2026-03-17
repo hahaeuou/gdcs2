@@ -1,6 +1,6 @@
 ---
 title: "Asking for Feedback"
-weight: 204
+weight: 2040
 date: 2023-03-09T00:00:00.000Z
 authors:
   - "komatic5"
@@ -17,7 +17,7 @@ draft: false
 
 ** **
 
-**1: Getting Feedback**
+# 1: Getting Feedback**
 
 First, you should know exactly what you need feedback on *before* you post. If you give vague questions, you’ll get vague answers.
 
@@ -30,7 +30,7 @@ Here are some sample questions you could use to describe your work. The more spe
 - What inspired you to make this?
 - Do you like or dislike specific things about your work?
 
-**2: Taking Feedback**
+# 2: Taking Feedback**
 
 It can be really irritating to give someone feedback and receive a rude response or a list of excuses for everything you pointed out. With this in mind, be polite when you receive feedback.
 
@@ -38,7 +38,7 @@ Try not to be defensive when someone points out issues in your work. If you see 
 
 Note that you don’t *have* to accept all the feedback you’re given. Sometimes you’ll get a suggestion that just doesn’t align with what you want, and it’s alright to let the other person know that. However, you should be polite when stating that; otherwise, nobody will want to give you feedback.
 
-**3: Using Feedback**
+# 3: Using Feedback**
 
 Finally, let’s move to the step of using the feedback you receive. The steps below provide an outline for how to best use feedback.
 

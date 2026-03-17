@@ -1,6 +1,6 @@
 ---
 title: "Making Sync"
-weight: 414
+weight: 4140
 date: 2025-01-14T00:00:00.000Z
 authors:
   - "e.clypse"

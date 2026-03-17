@@ -1,6 +1,6 @@
 ---
 title: "Count & Instant Count"
-weight: 344
+weight: 3440
 date: 2024-01-24T00:00:00.000Z
 authors:
   - "komatic5"

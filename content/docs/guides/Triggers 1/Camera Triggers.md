@@ -1,6 +1,6 @@
 ---
 title: "Camera Triggers"
-weight: 329
+weight: 3290
 date: 2024-05-31T00:00:00.000Z
 authors:
   - "zars70"

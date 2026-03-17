@@ -1,6 +1,6 @@
 ---
 title: "Giving & Taking Feedback"
-weight: 215
+weight: 2150
 date: 2023-03-14T00:00:00.000Z
 authors:
   - "unknown"
@@ -17,7 +17,7 @@ draft: false
 
 ** **
 
-**1: Giving Feedback**
+# 1: Giving Feedback**
 
 Providing useful feedback is no easy task. You have to account for a lot of factors that the creator may or may not tell you, and explain your thoughts in a way that they understand. For that reason, we’ve compiled a list of guidelines to consider when commenting on a creator’s work.
 
@@ -27,7 +27,7 @@ Providing useful feedback is no easy task. You have to account for a lot of fact
 
 - **Explain your reasoning and be constructive**. Randomly pointing out problems won’t help most people understand how to fix them, so try to provide solutions and justify the changes you suggest. To give an example, saying “I don't like the green in the background” is much less helpful than saying “The green in the background doesn’t really go well with the rest of the level because it stands out too much; you could use a purplish-blue instead.”
 
-**2: Receiving Feedback**
+# 2: Receiving Feedback**
 
 We've now gone through guidelines for giving feedback, so now let's discuss how you should receive feedback. This is how you can aid your reflection process and come out with a better level at the end.
 
@@ -40,7 +40,7 @@ We've now gone through guidelines for giving feedback, so now let's discuss how 
 
 - **Explain what you want.** In most cases, explaining your goals for your level will give you more relevant advice from others. Try sharing details on what you're asking for feedback on, and be sure to clarify what's unfinished even if it seems obvious to you. Is there something you've tried that didn't work out? Maybe others will find a workaround you didn't think of.
 
-**3: Feedback in GD**
+# 3: Feedback in GD**
 
 *Geometry Dash has two different player types*; creators who make levels, and players who play them. As a creator, you will most likely ask for feedback from other creators. This is good since they'll have editor experience and can likely make more relevant suggestions. However, *you shouldn't limit yourself to getting feedback from creators*. For example, if you want feedback on your gameplay, it may be better to ask an experienced player to playtest your level to get a sense of how fun and fair it is.
 

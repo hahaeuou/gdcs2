@@ -1,6 +1,6 @@
 ---
 title: "Gameplay Objects"
-weight: 402
+weight: 4020
 date: 2025-01-16T00:00:00.000Z
 authors:
   - "xplode09"

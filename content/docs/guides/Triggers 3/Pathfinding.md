@@ -1,6 +1,6 @@
 ---
 title: "Pathfinding"
-weight: 911
+weight: 9110
 date: 2024-09-30T00:00:00.000Z
 authors:
   - "furorem"

@@ -1,6 +1,6 @@
 ---
 title: "Solving Problems"
-weight: 205
+weight: 2050
 date: 2024-07-31T00:00:00.000Z
 authors:
   - "komatic5"

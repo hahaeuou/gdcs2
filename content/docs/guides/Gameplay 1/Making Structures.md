@@ -1,6 +1,6 @@
 ---
 title: "Making Structures"
-weight: 418
+weight: 4180
 date: 2023-07-12T00:00:00.000Z
 authors:
   - "komatic5"

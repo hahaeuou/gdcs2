@@ -1,6 +1,6 @@
 ---
 title: "Low Detail Mode"
-weight: 519
+weight: 5190
 date: 2025-06-29T00:00:00.000Z
 authors:
   - "komatic5"

@@ -1,6 +1,6 @@
 ---
 title: "Perspective 3 (Using Planes)"
-weight: 822
+weight: 8220
 date: 2024-05-31T00:00:00.000Z
 authors:
   - "komatic5"

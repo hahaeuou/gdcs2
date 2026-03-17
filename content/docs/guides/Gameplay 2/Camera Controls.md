@@ -1,6 +1,6 @@
 ---
 title: "Camera Controls"
-weight: 722
+weight: 7220
 date: 2026-02-27T00:00:00.000Z
 authors:
   - "zek.1612"

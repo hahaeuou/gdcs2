@@ -1,6 +1,6 @@
 ---
 title: "Making Optimized Setups"
-weight: 615
+weight: 6150
 date: 2025-03-17T00:00:00.000Z
 authors:
   - "theibra"

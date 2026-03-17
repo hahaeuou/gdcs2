@@ -1,6 +1,6 @@
 ---
 title: "Control Schemes"
-weight: 616
+weight: 6160
 date: 2026-03-05T00:00:00.000Z
 authors:
   - "theibra"

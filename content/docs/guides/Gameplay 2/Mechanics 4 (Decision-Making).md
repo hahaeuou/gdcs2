@@ -1,6 +1,6 @@
 ---
 title: "Mechanics 4 (Decision-Making)"
-weight: 704
+weight: 7040
 date: 2025-03-01T00:00:00.000Z
 authors:
   - "intercomprehensible"

@@ -1,6 +1,6 @@
 ---
 title: "Having a Growth Mindset"
-weight: 211
+weight: 2110
 date: 2023-03-09T00:00:00.000Z
 authors:
   - "creeperiv"
@@ -19,7 +19,7 @@ draft: false
 
 ** **
 
-**1: The Two Mindsets**
+# 1: The Two Mindsets**
 
 - **Growth Mindset**
 
@@ -33,7 +33,7 @@ Conversely, the **fixed mindset** is another way of thinking where __your mistak
 
 Furthermore, this mindset skips the intricacies and hard work required when going through such a journey as *succeeding ironically needs effort and failure*. *It's a narrow-minded view, but easy to fall into*.
 
-**2: Problems with a Fixed Mindset**
+# 2: Problems with a Fixed Mindset**
 
 Psychologist Carol Dweck first coined these 2 types of mindset in an attempt to explain how people’s beliefs affect their learning. One finding that was undeniably clear in her research is the temptation behind the fixed mindset. In context to Geometry Dash, those temptations typically look like this:
 
@@ -47,7 +47,7 @@ Psychologist Carol Dweck first coined these 2 types of mindset in an attempt to 
 
 - **You rely on others to make a path for you to become “good”**, leaving you without creativity or the ability to adapt. You don’t lay out your OWN path on how to get better, taking feedback literally instead of taking it as a contribution and seeing how you can use it creatively.
 
-**3: Adopting a Growth Mindset**
+# 3: Adopting a Growth Mindset**
 
 If you relate with the previous section, you must be wondering if using the growth mindset is possible. Thankfully, there are some details to keep in mind as a starting point:
 
@@ -61,7 +61,7 @@ Achieving a goal takes time, the growth mindset is set for small increases over 
 
 The sky’s the limit! You will always be able to create new goals to guide you. The results of your hard work will naturally pay off, and it will be something to be proud of.
 
-**4: Using the Growth Mindset**
+# 4: Using the Growth Mindset**
 
 There are several ways to apply the growth mindset to your creating journey, and no single specific way will work for everyone. Ultimately, it is up to you to decide how you want to progress. Nevertheless, there are some basic fundamentals to follow as a baseline when applying this mindset properly:
 

@@ -1,6 +1,6 @@
 ---
 title: "Making a Draft"
-weight: 203
+weight: 2030
 date: 2025-03-25T00:00:00.000Z
 authors:
   - "komatic5"

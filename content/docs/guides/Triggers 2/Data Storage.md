@@ -1,6 +1,6 @@
 ---
 title: "Data Storage"
-weight: 614
+weight: 6140
 date: 2024-07-31T00:00:00.000Z
 authors:
   - "v1ewsh0t"

@@ -1,6 +1,6 @@
 ---
 title: "Trigger Intro"
-weight: 301
+weight: 3010
 date: 2025-06-05T00:00:00.000Z
 authors:
   - "komatic5"

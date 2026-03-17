@@ -1,6 +1,6 @@
 ---
 title: "Pacing & Progression"
-weight: 707
+weight: 7070
 date: 2023-06-26T00:00:00.000Z
 authors:
   - "komatic5"
@@ -18,7 +18,7 @@ draft: false
 {{< /callout >}}
 
 ** **
-**1: The Flow State**
+# 1: The Flow State**
 
 When we describe Pacing, another term correlated to it is the **Flow State**. The Flow State is a __mental state where you put intense concentration into one task and lose focus on everything else__. You’ve probably heard this called “the zone” before.
 
@@ -34,7 +34,7 @@ When making the gameplay, you’ll find that pacing is critical to induce flow a
 
 With that out of the way, let’s look at the first application of flow: capturing the player’s attention.
 
-**2: Micro Flow**
+# 2: Micro Flow**
 
 **Micro flow** is a form of short-term flow that occurs from one second to the next as you play. It’s the main consideration when you’re *building* your gameplay.
 

@@ -1,6 +1,6 @@
 ---
 title: "Color 5 (Human Perception)"
-weight: 805
+weight: 8050
 date: 2024-05-31T00:00:00.000Z
 authors:
   - "skytriz"
