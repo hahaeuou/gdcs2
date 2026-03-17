@@ -29,6 +29,10 @@ def format_media(lines):
 
         html2 = re.sub(r'> • ', '- ', html2)
 
+        # replace incorrect number formatting
+        html2 = re.sub(r'**(?=[0-9]+:)', '# ', html2)
+        html2 = re.sub(r'**\n', '\n', html2)
+
         # replace plaintext youtube links with shortcode
         html2 = re.sub(r'(?<=.be/[a-zA-Z0-9\-\_]{11})\W', ' >}} ', html2)
         html2 = re.sub(r'^((?:https?:)?//)?((?:www|m)\.)?((?:youtube(?:-nocookie)?\.com|youtu.be))(/(?:[\w\-]+\?v=|embed/|live/|v/)?)', '{{< youtube ', html2)

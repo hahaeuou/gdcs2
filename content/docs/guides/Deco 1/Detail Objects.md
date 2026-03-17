@@ -22,7 +22,7 @@ Detail Objects are objects that usually don't have a hitbox. You can use them to
 
 Most detail objects can be found in these tabs.
 
-{{< img src="https://lh3.googleusercontent.com/d/1rQrXB8ob0zyXAQnXbM89itV8Z34_ybwb >}} 
+{{< img src="https://lh3.googleusercontent.com/d/1rQrXB8ob0zyXAQnXbM89itV8Z34_ybwb" >}} 
 
 {{< img src="https://lh3.googleusercontent.com/d/1YYLqUlTIpRA5me5npZOHKM3DuC3G2a-y" >}} 
 

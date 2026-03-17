@@ -26,16 +26,11 @@ To make things easier, you can reuse the structures that already existed from th
 
 Here’s how to restructure gameplay to make decorating easier:
 
-> `1.` Play the gameplay. Identify every platform and hazard that the player will touch, and mark them down. These must stay the same once you’re done structuring.
-> `2.` Make changes to the existing structures. You might change hazards from spikes to saws, for example. Just make sure you playtest and fix any skips or bugs that may arise.
-> `3.` Create any non-essential structures. These are ones that the player won’t touch during gameplay, but still fill up space. Once again, be sure to playtest before committing to anything.
-
-Here’s an example of this process.
-
+- Play the gameplay. Identify every platform and hazard that the player will touch, and mark them down. These must stay the same once you’re done structuring.
 {{< img src="https://lh3.googleusercontent.com/d/1YY2lp_OatXFEmJLBRNRKD5NJhLqhDkyx" >}}
-
+- Make changes to the existing structures. You might change hazards from spikes to saws, for example. Just make sure you playtest and fix any skips or bugs that may arise.
 {{< img src="https://lh3.googleusercontent.com/d/1iyceO_yda5PwMh5faUM_AdDTVSMsoAjH" >}}
-
+- Create any non-essential structures. These are ones that the player won’t touch during gameplay, but still fill up space. Once again, be sure to playtest before committing to anything.
 {{< img src="https://lh3.googleusercontent.com/d/1iwRc6OCwQrhOqP-5MEWHvPzotMT6QJKL" >}}
 
 Once you’re perfectly fine with the structures, proceed to the next step.
