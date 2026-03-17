@@ -15,10 +15,12 @@ def format_media(lines):
 
     relines = []
 
-    for img1 in range(len(lines)-1):
-        html = relines[img1]
-        html2 = re.sub(r'<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/', '{{< img src="https://lh3.googleusercontent.com/d/', html)
-        html2 = re.sub(r'/preview?usp=drivesdk></iframe></div>', '" >}}', html2)
+    for img1 in range(len(lines)):
+        html = lines[img1]
+        html2 = re.sub(r'<div (style="width: fit-content; height: fit-content")?><iframe src=https:\/\/drive.google.com\/file\/d\/', '{{< img src="https://lh3.googleusercontent.com/d/', html)
+        html2 = re.sub(r'\/preview\?usp=drivesdk><\/iframe><\/div>', '" >}}', html2)
+
+        html2 = re.sub(r'> - ', '- ', html2)
 
         relines.append(html2)
 
@@ -95,4 +97,4 @@ if __name__ == "__main__":
         # print(guide)
         # print(newGuide)
 
-        reformat_md(guide, newGuide, j)
+        reformat_md(guide, newGuide)
