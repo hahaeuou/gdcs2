@@ -9,6 +9,7 @@ contributors:
   - "galofuf"
   - "komatic5"
   - "notamoderatr"
+  - "poryii_"
 draft: false
 seo:
   title: "How To Decorate in Geometry Dash"
@@ -122,6 +123,8 @@ As before, you have a lot of freedom with how you organize objects, but experien
 - **Make sure your deco doesn't overlap!** It looks very weird if parts of your background show up above objects in your blocks, because your background uses B2-T1 and your blocks use T1.
 - Be aware of how [tilesets and blending colors](/docs/guides/the-editor/editing-objects/#tilesets) work, especially when using animated objects and particles. These can complicate your layers a lot otherwise.
 - When using Z Order, try to **leave gaps of 3-5 orders between objects**. For instance, if the base of a block is on T1 with order 5, your first details should be on T1 with order 10, then the next on T1 with order 15, and so on. This makes it much easier to adjust your deco later.
+
+Although Z Order and Z Layer are quite similar, they have many differences too. Z Order is a more precise version of Z Layer, where you can adjust the layering of objects even if they're on the same Z Layer. Think about it Like this: I have several objects in the background of my level, and my background is on Z Layer B5. By using Z Order, I can layer the objects in the background even when they're on the same Z Layer. This helps you organize your decoration between the base and the details, on just one Z Layer, especially if you have a lot of things in your level going on.
 
 Editor and Z layers are best seen in the actual editor, so I strongly recommend opening up actual levels to see how other creators use these. In addition, here is another example from Galofuf's work where the objects are on T1. Each number shows the Z Order of the object it points to.
 

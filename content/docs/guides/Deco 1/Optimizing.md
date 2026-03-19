@@ -26,7 +26,7 @@ There are many techniques you can use to make your object use more efficient.
 
 **Overlapping** objects is usually the easiest way to optimize. You simply delete objects which are fully covered by others. This works best on decoration that utilizes many layers.
 
-**Scaling** is another simple way to reduce object counts. By making one object take up more space, you can use far fewer objects to fill in a space. Note that this is much easier with scale hack.
+**Scaling** is another simple way to reduce object counts. By making one object take up more space, you can use far fewer objects to fill in a space. Note that this is much easier with scale hack. You can also use the warp function as it has more freedom, but warping it too much will bug it out a lot.
 
 *Warning: GD renders large objects differently depending on their hitboxes. Be careful with this because it can cause visual errors.*
 
@@ -48,4 +48,4 @@ Note that this works significantly better if you use a lot of Editor layers. Thi
 
 Here is an example of this process. This video shows all of the efficiency techniques, as well as the object reduction algorithm.
 
-{{< youtube NMwzuKoi3Nk >}} 
+{{< youtube NMwzuKoi3Nk >}}
