@@ -107,7 +107,7 @@ Different crowds will appreciate different types of aesthetic details; for examp
 Compare these two screenshots, once again from Ghostrunner. The second one includes details like spotlights on the right and bloom on the light sources, which are absent from the first. These are aesthetic details; they don't contribute to the story or serve a big gameplay function, but they look cool and that's why they exist.
 
 {{< img src="https://lh3.googleusercontent.com/d/1jAuoVuM2sHe_0HHCuywijgCy8mpEyNVM" >}}
-
+{{< img src="https://lh3.googleusercontent.com/d/1zOr3zewAKJLhxFxMUxB1Rol07oTldgj1" >}}
 ## Simplifying
 
 A common assumption of beginner creators and the GD community is to assume that more detail is unequivocally better than less. This is not true. More details require you to have a stronger balance between what is and what isn't important to your levels, and without enough skill you will fail to juggle everything. You cannot make up for this with planning; it is skill that impacts your ability to handle more details. As before, if you wish to disagree, try cramming lots of details into your deco and see how well you really fare.

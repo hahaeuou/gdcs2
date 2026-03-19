@@ -7,6 +7,7 @@ authors:
 contributors:
   - "kde"
   - "unknown"
+  - "poryii"
 draft: false
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
@@ -26,17 +27,30 @@ Although starting with pure RGB values is an important part of blending, there i
 
 {{< img src="https://lh3.googleusercontent.com/d/1mCcqYu6FAj5Cai-wknJ44foGBFH1lHm9" >}}
 
+
 There are some very important facts for this guide which you should know:
 - Since black has a zero value for red, green, and blue, a blending color will perfectly show up on black.
 - Since white has full values for red, green, and blue, blending colors will look invisible on white.
 - Adding one color to another when its primary color is maxed out will not add any more of that primary color.
+
+By using Additive Blending, we can unlock many possibilities that you can use in your own level, as we explore many ways to use them.
+
+## How to Actually Turn on Blending
+- Go to the colour channel that you want to have blending enabled.
+- Click on it in the bottom right corner, where the settings of the colour channel should appear.
+
+None (picture showing colour channel settings or something)
+- Check off "Blending" in the bottom left section of your colour channel settings.
+- If you've done these steps, correctly, you should see a white dot on the top left of your colour channel.
+
+None
 
 # 2: General Blending Mask
 
 This mask uses blending to produce different colors depending on which color is behind it.
 
 ## Setup
-1. Start by making two of the same pattern with different colors. Make the color of the top layer blending, and then stack them.
+1. Start by making two of the same pattern with different colors. Make the color of the top layer blending, and then stack them. As you can see in the picture below, putting these two colours together using blending will result in magenta, as pure red (255, 0, 0) and pure blue (0, 0, 255,) get "blended" together, which will give us the colour hue of 255, 0, 255. (As shown earlier.)
 
 {{< img src="https://lh3.googleusercontent.com/d/12fLglTECj634AxXvG_5t1pJhdYeJLXSN" >}}
 
@@ -44,7 +58,7 @@ This mask uses blending to produce different colors depending on which color is 
 
 {{< img src="https://lh3.googleusercontent.com/d/12V554HDrPGmDgtpxeQ3W2rm9xnRkH_2v" >}}
 
-You should end up with this.
+You should end up with something similar to this.
 
 {{< img src="https://lh3.googleusercontent.com/d/13QMjY_-H-nOkKuTXs5s1xqlHiHftkAYe" >}}
 
