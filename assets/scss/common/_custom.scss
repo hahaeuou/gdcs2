@@ -16,6 +16,10 @@
   transform: scale(1.02);
 }
 
+div.pad-img > img {
+  padding: 0.5rem;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -75,3 +79,6 @@ h4 img.headingemote {
     justify-content: inherit;
 }
 
+.audio-card audio {
+  max-width: 100%;
+}
