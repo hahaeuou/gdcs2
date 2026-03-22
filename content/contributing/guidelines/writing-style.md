@@ -1,5 +1,5 @@
 ---
-title: "Writting Style"
+title: "Writing Style"
 weight: 600
 authors:
   - "komatic5"
