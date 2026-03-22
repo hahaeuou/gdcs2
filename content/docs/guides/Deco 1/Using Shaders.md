@@ -10,7 +10,10 @@ draft: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
-- shaders lmfao its unfinsihed dont bully
+- Shaders are effects that cover the whole screen.
+- They can enhance your level's atmosphere and immersion, but they do not affect gameplay itself.
+- Use shaders in key moments like drops, transitions, and intensity changes to emphasize important beats in the music and structure of your level.
+- Keep effects controlled and make sure they have a clear purpose. Overusing shaders can cause lag, reduce visibility, and make your level feel messy, rather than polished.
 
 {{< /callout >}}
 
@@ -72,3 +75,27 @@ None
 3. Change the Trigger however you like! You can also use the shader trigger (the trigger literally called shader, not to be confused with the other shader triggers.) to change what Z Layers the shader will affect!
 
 # 3. Scenarios & Techniques Involving Shaders
+Like we've said before, shaders are most effective when used in specific situations, rather than being applied randomly. Understanding when and how to use them are cruicial, as they can improve level design, and the level quality and overall experience. Here are some examples how you can use shaders effectively:
+
+## Treating Shaders as Pulses
+Shaders can be used to create quick pulses that sync on beat with the music, and it's actually very simple to set up. For example, you can combine a radial blur with a lens circle with the colour black, and set them up like this, acting as a "pulse trigger" while still having a unique effect that a pulse trigger couldn't set up.
+
+None
+
+## Using Them During Transitions
+By using shaders during transitions, you can make a transition smoother between different sections of the level. You can change the colour hue, have a shockwave effect, or even a slight distortion to signal a shift or change in the level. This helps make the level feel more connected with the theme and the music.
+
+None
+
+## Utilizing Shaders as Subtle Enhancements
+Instead of just relying on strong effects lasting a lifetime, shaders can be used in small amounts so you can polish up your level. For example, you can add a glitch effect to your level if there's already a kind of "glitchy vibe" to it, that slowly gets more intense over time, to give a sense of buildup throughout the level.
+
+None
+
+## Using Them for Effects
+Creators can use shaders for complex techniques like [masking](https://www.gdcreatorschool.com/docs/guides/deco-1/other-masks) or making backgrounds. Although these effects often require planning from the start of creation, they can be very powerful if they fit the level's design. Also note that the decoration and shaders should work together closely.
+
+None
+
+## Making Sure You Use Shaders With Purpose
+And finally, every shader should have a clear reason and purpose behind it. I know i've said it before, but it's really just that important. Whether it's to emphasize strong beats, improve the atmosphere, or polish transitions, shaders should support the level rather than distracting it. Random shader abuse can make a level feel messy and worse to play.
