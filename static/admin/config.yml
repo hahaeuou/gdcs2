@@ -7,7 +7,7 @@ backend:
 media_folder: /static/media
 public_folder: /media
 publish_mode: editorial_workflow
-site-url: https://www.gdcreatorschool.com/
+site_url: https://www.gdcreatorschool.com/
 
 fields: &page_fields
   - { label: Draft, name: draft, widget: boolean,
