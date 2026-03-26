@@ -68,10 +68,12 @@ Since visual weight is based on the elements of deco, each one provides a way to
 * **Direction:** This is also derived from shape. Objects that appear vertical will stand out more than horizontal ones. Diagonal objects have the most weight, and as such they're used the most for dynamic deco.
 * **Edges/Lines:** Objects with thicker lines will appear to have more weight than objects with thinner lines. This is a side effect of proximity as thick lines are often used to convey objects being closer.
 * **Proportion:** Larger parts of objects will carry more visual weight than smaller parts.
-* **Texture:** Objects with textures will have more visual weight than flat objects without any texture.
+* **Texture:** Objects with textures will have more visual weight than flat objects without any texture. This is also the least impactful way to increase visual weight.
 
 ## Hierarchy
 
 How you intentionally use visual weight to make some objects more / less important
+
 Focal points / areas
+
 Levels of importance (e.g., big medium small)
