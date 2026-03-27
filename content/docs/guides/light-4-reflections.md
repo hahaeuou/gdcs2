@@ -33,3 +33,73 @@ The Fresnel effect can be described like this: the strength of the reflection is
 To understand why this effect occurs, let’s look at this shiny black car. This car’s surface may seem smooth, but it actually has many ripples and trenches at the microscopic level. This means that, when viewed directly (point A), light will scatter in all directions, causing the car to appear less shiny. However, when viewed from an angle (points B and C), these ripples will align, which causes more sight lines to bounce in the same direction. In turn, this makes the car seem shinier and more reflective from an angle.
 
 {{< img src="https://lh3.googleusercontent.com/d/1X08I7FkS7SX9L7NOZCKVdXeEAWRokon9" >}}
+
+# 2: Types of Reflections
+
+## Matte vs. Shiny Surfaces
+
+Matte surfaces, like the left image, typically do not have many sharp highlights and can be rendered with a lighter section tilted towards the light source, a transitional section, and a darker section tilted away from the light source, accompanied by a very faint line of bounce light.
+
+Shiny surfaces, on the other hand, have more concentrated highlights. We can see that, in the right image, there’s a concentrated highlight where the light is strongest (at the top left) and a slightly less faint line of bounce light on the bottom right of the ball.
+
+{{< img src="https://lh3.googleusercontent.com/d/1BteK_NuaonxcYCA6ao9_KO_6gKIOE35Y" >}}
+
+## Reflective Surfaces
+
+If a surface is reflective, it no longer depends on the light source itself; it depends on the angle of incidence combined with the varying strength of reflection from the surrounding environment.
+
+Additionally, reflections are the reverse of matte surfaces; they are more reflective where the line of sight is perpendicular. When the line of sight is tangent to a reflective surface, the surface will begin to take on the color and value of its surroundings rather than reflect it into the environment.
+
+In this example, you’ll notice these chrome parts begin to take on the color green at, for instance, points D and E, due to the angled line of sight.
+
+{{< img src="https://lh3.googleusercontent.com/d/1uYjE0kkQNZVWVUkuWKiEiFEXfFX3qO4y" >}}
+
+## Convex vs. Concave
+
+In simple terms, concave surfaces will stretch a reflection, while convex surfaces will compress a reflection.
+
+As an example, we can look at the inside and outside of a spoon. The inside, or the concave, part of the spoon compresses the man’s reflection, while the outside, or the convex, part stretches it around the curvature of the spoon.
+
+Note that the reflection is upside-down in the concave reflection because of the focal point, which is the point that all rays of light converge to. Because the spoon is so small, you will never be able to get close enough to be between the focal point and the spoon, so the light rays cross over each other and create an image of the reflection that is flipped vertically.
+
+{{< img src="https://lh3.googleusercontent.com/d/145JaWaeeEb1vpbAy9ABpX7hVAxamLSpy" >}}
+
+## Color and Value
+
+Different colors and values affect how we see reflective surfaces. White surfaces will appear very matte while black surfaces will appear shiny. This is because light contrasts much better with a darker surface than with a brighter one.
+
+However, actual colors like red are difficult to render because equal amounts of reflectivity and matte-surface qualities have to be applied, and their values can cancel each other out. For example, where there might be a shadow, there could also be a lighter reflection, which cancels it out.
+
+Take this red chrome car as an example. You’ll notice that the colors of its surroundings still show up in the reflection, but a red overlay engulfs it. You’ll have to account for this color distortion when rendering reflections.
+
+{{< img src="https://lh3.googleusercontent.com/d/10Bq5i3N8clLAabvHmX288timQ2zGD5qI" >}}
+
+# 3: Making Reflections in Geometry Dash
+
+Definite reflections aren’t always needed in GD levels, but they do help make a part feel more immersive, especially in things like art style decoration.
+
+## How Creators Use Reflections
+
+First, let’s take a look at Subpixel’s part in “Eta Carnis”. Notice how the water has a reflection; this is called reflection flipping. Essentially, when sight lines bounce off a shiny surface, they will reflect into the surrounding environment, so the reflections will be the same, just inverted.
+
+{{< img src="https://lh3.googleusercontent.com/d/1EXuOIdc0JXlgqxDNrERqw8qcdtv8DR5H" >}}
+
+These crystals from “Stronghold” by Debihan have highlights that are much more defined and intricate than the rest of the blocks, showing that they’re shiny.
+
+{{< img src="https://lh3.googleusercontent.com/d/1rNCfqAoHfqyMB3ApjQf89YntNIxqIdRn" >}}
+
+This sphere from “boogie” by connot doesn’t seem to be reflective, but it can be treated as an example for how reflective convex surfaces can be made in Geometry Dash. You’ll notice that the face follows the curvature of this sphere on both axes, made using the “Bulge” shader. 
+
+{{< img src="https://lh3.googleusercontent.com/d/1EZWY9RzknanSW6ZjVsL2KedmeARGh73L" >}}
+
+## Possibilities with Reflections
+
+Now, reflections in Geometry Dash are usually pretty simple, like the ones above. However, with knowledge of how reflections work, you could make some really interesting effects. For example, this image presents two mirrors facing each other, creating this strange, seemingly infinite repetition of the scene. With knowledge of parallax, this can be relatively simple to make in Geometry Dash, yet could turn out extremely unique.
+
+{{< img src="https://lh3.googleusercontent.com/d/1WnHrX-TiR-yoL9nEX_Y5-iyr9DpTEt6t" >}}
+
+
+# Sources
+
+- Scott Robertson: How to Render, Chapter 7
+
