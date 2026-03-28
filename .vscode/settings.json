@@ -3,5 +3,6 @@
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": false,
   "editor.tabSize": 2,
-  "editor.insertSpaces": true
+  "editor.insertSpaces": true,
+  "css.validate": false,
 }
