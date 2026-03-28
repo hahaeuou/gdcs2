@@ -1,7 +1,7 @@
 ---
 title: Light 1 (Basics)
-weight: 8060
 date: 2023-05-21T00:00:00.000Z
+weight: 8060
 authors:
   - print6165
 contributors:
@@ -18,7 +18,7 @@ draft: false
 {{< /callout >}}
 
 ** **
-# 1: Basics**
+# 1: Basics
 
 Light and shadows are something that you see everyday in your daily life. Light comes from things that emit light, such as the sun, candles, lamps, and your computer screen. Shadows are the result of light hitting an object.
 
@@ -30,7 +30,7 @@ When light rays hit an object, they’ll hit different sides in different ways. 
 
 Here, the light source is on the left side; as such, the sides facing the left are brighter. It may be hard to fully grasp this when you’re starting out, so I recommend using black & white images so you aren’t distracted by colors. I also recommend you gain an intuitive understanding of perspective, as it’ll help you gain intuition faster.
 
-# 2: Types of Light**
+# 2: Types of Light
 
 We can distinguish different types of light based on the types of shadows they cast on the ground. **Direct** or **Hard Light** means that light rays are strongly aligned with each other. This makes a harder cast shadow with a sharp edge, almost as if the shadow is mimicking the shape of the object itself. A good example of this is the light on a bright sunny day.
 
@@ -54,7 +54,7 @@ Sometimes you’ll want to use outlines when rendering, but just drawing a thick
 
 This is especially true when the light source is coming from behind the object, creating shadows in the middle areas of the object but lighting up the edges.
 
-# 3: Light Properties**
+# 3: Light Properties
 
 Light can display interesting properties that aren’t always the most intuitive. Here, we’ll go over them in kind.
 
