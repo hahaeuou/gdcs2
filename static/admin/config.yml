@@ -6,8 +6,8 @@ backend:
   branch: main
   open_authoring: true
 
-media_folder: /static/media
-public_folder: /media
+media_folder: /assets/images
+public_folder: /images
 publish_mode: editorial_workflow
 site_url: https://www.gdcreatorschool.com/
 
