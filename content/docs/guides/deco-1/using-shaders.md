@@ -1,13 +1,19 @@
 ---
 title: Using Shaders
 weight: 5125
-date: 2026-03-19T00:00:00.000Z
+date: 2026-03-29T00:00:00.000Z
 authors:
   - poryii
 contributors:
   - poryii
 draft: false
 ---
+
+{{< callout context="caution" title="Incomplete guide" icon="outline/info-circle" >}}
+This guide is missing the following:
+- Examples
+
+{{< /callout >}}
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Shaders are effects that cover the whole screen.
