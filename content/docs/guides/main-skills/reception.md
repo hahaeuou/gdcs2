@@ -14,11 +14,13 @@ contributors:
 
 
 
+
 - Attention is when someone else is noticing your work; its power tends to be more obvious in large numbers.
 - Levels are digital goods, and like physical goods you can use the four elements of the marketing mix, product, promotion, price, and place, to improve reception.
 - Levels receive much more attention and usually have a more positive reception when levels' performance exceeds audience expectations.
 - Overhype or underselling can hurt a level's reputation or reception by either inflating audience expectations or downplaying the level’s presence.
 - With all that said, treat this guide as a starting point to get to know your target audience, the current trends, and expectations.
+
 
 
 
@@ -215,13 +217,15 @@ To say that iSpy blew up big time back in 2023 would be an understatement. While
 
 ## LIMEADE by AudieoVisual
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtNq6sWJavE" frameborder="0" allowfullscreen></iframe>
+{{< youtube "HtNq6sWJavE" >}}
 
 July 20th, 2024 marked the release of a level that was fitting for the summer season: LIMEADE. Within a single day, it received a Viprin showcase, 1.2k downloads, an epic rating, and a daily. Needless to say, its reception was meteoric. Let’s analyze its marketing mix:
 
 1. **Product:** This is aimed to be a reiteration of another existing level called Lemonade by Robotronx. Due to the song being such a bop for Audieo, he wanted to build using LIMEADE as the theme.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tns-PzgD3Cw" frameborder="0" allowfullscreen></iframe>
+{{< youtube "Tns-PzgD3Cw" >}}
+
+
 
 2. **Promotion:** While iSpy was built in secrecy, LIMEADE heavily used pre-promotion through public youtube streaming and Twitter. Audieo regularly made building progress videos for this level, and the live chat viewers gave their inputs as the level was made.
 3. **Price:** This level is an 8-star through the normal route. However, going for the coin route leads to the SUOM chamber where inputs get finicky.
