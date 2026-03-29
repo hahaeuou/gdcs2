@@ -90,7 +90,7 @@ jobs:
         uses: actions/cache/restore@v5
         with:
           path: ${{ runner.temp }}/hugo_cache
-          key: hugo-main-${{ hashFiles('**/package-lock.json', '**/config/**') }}
+          key: hugo-main-${{ hashFiles('assets/**', 'config/**') }}
           restore-keys:
             hugo-main-
             hugo-
@@ -106,10 +106,11 @@ jobs:
 
       - name: Cache save
         id: cache-save
+        if: steps.cache-restore.outputs.cache-hit != 'true'
         uses: actions/cache/save@v5
         with:
           path: ${{ runner.temp }}/hugo_cache
-          key: hugo-main-${{ hashFiles('**/package-lock.json', '**/config/**') }}
+          key: hugo-main-${{ hashFiles('assets/**', 'config/**') }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

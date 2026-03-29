@@ -35,10 +35,8 @@ jobs:
         uses: actions/cache/restore@v5
         with:
           path: ${{ runner.temp }}/hugo_cache
-          # Intentará buscar la caché del mismo PR, o la de la rama main
-          key: hugo-pr-${{ github.ref }}-${{ hashFiles('**/package-lock.json', '**/config/**') }}
+          key: hugo-main-${{ hashFiles('assets/**', 'config/**') }}
           restore-keys: |
-            hugo-pr-${{ github.ref }}-
             hugo-main-
             hugo-
 
@@ -60,11 +58,3 @@ jobs:
           npm run predev
           hugo --gc --minify --cacheDir "${{ runner.temp }}/hugo_cache"
           node scripts/copy-css.js
-
-      - name: Cache save
-        id: cache-save
-        if: success() && steps.cache-restore.outputs.cache-hit != 'true'
-        uses: actions/cache/save@v5
-        with:
-          path: ${{ runner.temp }}/hugo_cache
-          key: hugo-pr-${{ github.ref }}-${{ hashFiles('**/package-lock.json', '**/config/**') }}
