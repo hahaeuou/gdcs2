@@ -16,9 +16,11 @@ draft: false
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
+
 - By taking full advantage of all the editor features, you can create a wide range of visual effects.
 - You can use layering tricks, visual illusions and ambiguity in order to achieve more interesting effects.
 - Having a clear idea and understanding its underlying logistics will allow you to achieve your desired effect successfully.
+
 
 
 {{< /callout >}}
@@ -35,19 +37,27 @@ There are a lot of interesting applications when using colors. However, you need
 
 **Copy Color** *allows the color channel to copy the color of another channel*, meaning if you change one color channel, you can change the color of other channels as well. Using the HSV sliders, you can create a new color based off of an old color channel. Your colors are now linked; you can do whatever you want with one color and it will display in your other colors.
 
-{{< youtube "q8vzVmEd8hM" >}}
+{{< youtube ""q8vzVmEd8hM"" >}}
 
-**Opacity** *allows you to see through objects*. You can use this in many different ways: tinting your whole level using a low-opacity overlay, texturing your blocks with low-opacity blocks, or stacking low opacity blocks on top of each other to create a new shape. A specific effect that uses opacity is **color banding**. It can be made by stacking low-opacity objects that have a smooth gradient or glow on top of each other; changing their hues and opacity throughout the level gives an interesting effect.
+**Opacity** *allows you to see through objects*. You can use this in many different ways: tinting your whole level using a low-opacity overlay, texturing your blocks with low-opacity blocks, or stacking low opacity blocks on top of each other to create a new shape.
 
-{{< youtube "https://youtu.be/a81bGfnI8r0" >}}
+A specific effect that uses opacity is **color banding**. It can be made by stacking low-opacity objects that have a smooth gradient or glow on top of each other; changing their hues and opacity throughout the level gives an interesting effect.
 
-**Blending** is probably the most versatile option in the color channels. To quickly summarize blending, **it takes the color values of a color and adds it onto the colors behind it**. This is another way you can create new colors. For instance, overlapping a red object and a blue object will create purple within the region where they overlap. Blending objects appear to become more transparent as they become darker, meaning you have most of the applications of opacity as well. You could use this to pulse objects without giving them a separate group that is invisible. Blending objects look like they disappear on top of white objects as well, because white has maximum color values and therefore adding color onto white just looks white.
+{{< youtube ""a81bGfnI8r0"" >}}
 
-{{< img src="https://lh3.googleusercontent.com/d/1Q8XfG7zbuBHtwQ-DAanaHk2CqSEhO7aW" >}}
+**Blending** is probably the most versatile option in the color channels. To quickly summarize blending, **it takes the color values of a color and adds it onto the colors behind it**. This is another way you can create new colors. For instance, overlapping a red object and a blue object will create purple within the region where they overlap. 
 
-Since we are on the topic of blending, let’s discuss the Gradient Trigger blending modes as well. The **additive mode** works exactly like the blending discussed above, but *multiply mode* is where it gets interesting. **Multiply** **works in the opposite way of additive blending; white is invisible, black is fully opaque**. They are most visible on white backgrounds ,and are completely invisible on black backgrounds. **Invert mode** is slightly more complicated; **it takes the backing color, subtracts it from the color of the gradient trigger, and then takes the absolute value**. This means that if the gradient is white, the backing color will completely invert, and if the gradient is black, nothing will happen at all.
+Blending objects appear to become more transparent as they become darker, meaning you have most of the applications of opacity as well. You could use this to pulse objects without giving them a separate group that is invisible. Blending objects look like they disappear on top of white objects as well, because white has maximum color values and therefore adding color onto white just looks white.
 
-{{< img src="https://lh3.googleusercontent.com/d/1R9yMVQYGLVzKtmg_2pYKH7abcmiWvUEq" >}}
+{{< youtube "dzdb_TYfX2o" >}}
+
+Since we are on the topic of blending, let’s discuss the Gradient Trigger blending modes as well.
+
+The **additive mode** works exactly like the blending discussed above, but *multiply mode* is where it gets interesting. **Multiply** **works in the opposite way of additive blending; white is invisible, black is fully opaque**. They are most visible on white backgrounds ,and are completely invisible on black backgrounds.
+
+**Invert mode** is slightly more complicated; **it takes the backing color, subtracts it from the color of the gradient trigger, and then takes the absolute value**. This means that if the gradient is white, the backing color will completely invert, and if the gradient is black, nothing will happen at all.
+
+{{< youtube "OazZlbsiefo" >}}
 
 ## Layering Effects
 
@@ -77,13 +87,15 @@ Think about it; are these white striped rectangles on a black background? Or is 
 
 {{< img src="https://lh3.googleusercontent.com/d/1FSgN-BT_KGFOEDYzsPbiOWZzG8ZY1ePh" >}}
 
-\||It was just a black structure on a white striped background. Congratulations if you were able to see through the illusion beforehand!||
+It was just a black structure on a white striped background. Congratulations if you were able to see through the illusion beforehand!
 
-None
+![](https://lh3.googleusercontent.com/d/1vvT7S2vRlL7Uubl_3T8DTajDpmz7g4q5)
 
-Most GD levels apply this concept by filling in their “background” with a color and leaving the structures open, then putting a moving effect underneath the “background” to create a trippy effect. Sandwiching also applies to Gradient triggers in 2.2. Here is a part I made where the whole level is under an invert gradient. Because inverting an inverted object returns it to normal, by sandwiching the orbs between two other invert gradients, it won’t be inverted yet everything below it will.
+Most GD levels apply this concept by filling in their “background” with a color and leaving the structures open, then putting a moving effect underneath the “background” to create a trippy effect.
 
-{{< img src="https://lh3.googleusercontent.com/d/1SHNSqaB9jpl0SJ6VJUoNe9UiLc-_-iIM" >}}
+Sandwiching also applies to Gradient triggers in 2.2. Here is a part I made where the whole level is under an invert gradient. Because inverting an inverted object returns it to normal, by sandwiching the orbs between two other invert gradients, it won’t be inverted yet everything below it will.
+
+{{< youtube "CG0s86rfEII" >}}
 
 ## Miscellaneous Effects
 
@@ -95,11 +107,11 @@ What makes the shader triggers even more compelling though is their Strength, In
 
 {{< img src="https://lh3.googleusercontent.com/d/1yUil_Y03QINnh-iBkAe1eRlpxgRLl3VR" >}}
 
-{{< youtube "9AuptH4fElM" >}}
+{{< youtube ""9AuptH4fElM"" >}}
 
-{{< youtube "nOQURadITc4" >}}
+{{< youtube ""nOQURadITc4"" >}}
 
-{{< youtube "toYzkwGtKZE" >}}
+{{< youtube ""toYzkwGtKZE"" >}}
 
 **Keep in mind that there is a big drawback behind shader effects; they are extremely laggy.** By default they render at 4K resolution regardless of your screen size, unless you install the "Shader Fix" mod in Geode.
 
@@ -143,7 +155,7 @@ Neither of these illusions give you any clues on the actual movement that is goi
 
 HOW by Spu7nix explores this idea on the cylinders in the background. It uses various different patterns that go up and down to create the illusion of the cylinder rotating.
 
-{{< youtube "UKqMBAxxun8" >}}
+{{< youtube ""UKqMBAxxun8"" >}}
 
 There is a category of effects called **manual effects**, which as the name suggests, are made manually. These effects (like lens flare, glow lasers, and impact frames) are used mainly to enhance artworks and don’t involve a core GD mechanic. This guide won’t go over these in detail as there is a lot of nuance behind them.
 
@@ -164,9 +176,9 @@ Let's make an example. You could start with this editor fact: *blending objects 
 Example 1
 Example 2 (1 minute in)
 
-{{< youtube "HMKmJwdMMTQ" >}}
+{{< youtube ""HMKmJwdMMTQ"" >}}
 
-{{< youtube "ClHHB4a2ez0" >}}
+{{< youtube ""ClHHB4a2ez0"" >}}
 
 Here is another example of building on a concept. Using long rotating rectangles with the same color allows for interesting patterns to come up beneath them. My friend first used this technique in the first video below, and I later drew inspiration from it for the background in the next video. *Keep in mind that I took the idea and expanded on it, rather than outright stealing it.*
 
@@ -174,7 +186,7 @@ Here is another example of building on a concept. Using long rotating rectangles
 
 Example 2 (Start)
 
-{{< youtube "ClHHB4a2ez0" >}}
+{{< youtube ""ClHHB4a2ez0"" >}}
 
 Now that you know what your effect does and how it works, you should start brainstorming *how to apply it to your level*. This is where the trigger stuff comes in and where things may start breaking; this process will vary depending on the effect. Here are some tips below anyway:
 
