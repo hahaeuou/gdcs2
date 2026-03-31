@@ -2,7 +2,7 @@
 title: Custom Objects & Autobuild
 weight: 1140
 date: 2024-07-16T00:00:00.000Z
-description: As common knowledge, objects can be placed anywhere within the editor, but when it comes to grouping objects or potentially automating the decorating process, what can you do? There are two features responsible for these functions: Custom Objects and Autobuild. In this guide, we will cover the details of these features, and the scenarios these can be used in.
+description: "As common knowledge, objects can be placed anywhere within the editor, but when it comes to grouping objects or potentially automating the decorating process, what can you do? There are two features responsible for these functions: Custom Objects and Autobuild. In this guide, we will cover the details of these features, and the scenarios these can be used in."
 authors:
   - tdp9
 contributors:

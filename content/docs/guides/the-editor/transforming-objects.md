@@ -2,7 +2,7 @@
 title: Transforming Objects
 weight: 1150
 date: 2024-01-07T00:00:00.000Z
-description:
+description: null
 authors:
   - komatic5
 contributors:
@@ -29,7 +29,7 @@ seo:
 
 Transformations are ways to manipulate 2-dimensional objects. The “Edit” tab in the editor contains all the tools you need for movement, rotation, reflections, and scaling.
 
-{{< img src="">}}
+{{< img src="https://lh3.googleusercontent.com/d/1fDJmounKQRESy2q9mAICgOfK-lKZbdOP" >}}
 
 # 1: Arrow Buttons
 

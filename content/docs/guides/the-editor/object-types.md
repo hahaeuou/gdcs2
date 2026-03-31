@@ -27,6 +27,10 @@ seo:
 
 ** **
 
+Objects are located in the tabs at the top of the head-up display (HUD) bar.
+
+{{< img src="https://lh3.googleusercontent.com/d/1AaQrRnFSTB4ULDrG46xNbYTlTCunak7z" >}}
+
 # 1: Different Types of Objects
 
 Objects fall into different categories. These categories all have unique properties and uses. Here is a list of them below:
