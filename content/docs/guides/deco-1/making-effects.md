@@ -1,8 +1,11 @@
 ---
+draft: false
 title: Making Effects
 date: 2024-09-18T00:00:00.000Z
 weight: 5120
-description: This guide explains what effects generally are, important concepts to know when making them, and the creating process for implementing them in your levels.
+description: This guide explains what effects generally are, important concepts
+  to know when making them, and the creating process for implementing them in
+  your levels.
 authors:
   - illusion2
 contributors:
@@ -10,7 +13,6 @@ contributors:
   - illusion2
   - silvow
   - sparktwee
-draft: false
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
@@ -37,19 +39,19 @@ There are a lot of interesting applications when using colors. However, you need
 
 **Copy Color** *allows the color channel to copy the color of another channel*, meaning if you change one color channel, you can change the color of other channels as well. Using the HSV sliders, you can create a new color based off of an old color channel. Your colors are now linked; you can do whatever you want with one color and it will display in your other colors.
 
-{{< youtube "q8vzVmEd8hM" >}}
+{{< youtube q8vzVmEd8hM >}}
 
 **Opacity** *allows you to see through objects*. You can use this in many different ways: tinting your whole level using a low-opacity overlay, texturing your blocks with low-opacity blocks, or stacking low opacity blocks on top of each other to create a new shape.
 
 A specific effect that uses opacity is **color banding**. It can be made by stacking low-opacity objects that have a smooth gradient or glow on top of each other; changing their hues and opacity throughout the level gives an interesting effect.
 
-{{< youtube "a81bGfnI8r0" >}}
+{{< youtube a81bGfnI8r0 >}}
 
 **Blending** is probably the most versatile option in the color channels. To quickly summarize blending, **it takes the color values of a color and adds it onto the colors behind it**. This is another way you can create new colors. For instance, overlapping a red object and a blue object will create purple within the region where they overlap. 
 
 Blending objects appear to become more transparent as they become darker, meaning you have most of the applications of opacity as well. You could use this to pulse objects without giving them a separate group that is invisible. Blending objects look like they disappear on top of white objects as well, because white has maximum color values and therefore adding color onto white just looks white.
 
-{{< youtube "dzdb_TYfX2o" >}}
+{{< youtube dzdb_TYfX2o >}}
 
 Since we are on the topic of blending, let’s discuss the Gradient Trigger blending modes as well.
 
@@ -57,7 +59,7 @@ The **additive mode** works exactly like the blending discussed above, but *mult
 
 **Invert mode** is slightly more complicated; **it takes the backing color, subtracts it from the color of the gradient trigger, and then takes the absolute value**. This means that if the gradient is white, the backing color will completely invert, and if the gradient is black, nothing will happen at all.
 
-{{< youtube "OazZlbsiefo" >}}
+{{< youtube OazZlbsiefo >}}
 
 ## Layering Effects
 
@@ -95,7 +97,7 @@ Most GD levels apply this concept by filling in their “background” with a co
 
 Sandwiching also applies to Gradient triggers in 2.2. Here is a part I made where the whole level is under an invert gradient. Because inverting an inverted object returns it to normal, by sandwiching the orbs between two other invert gradients, it won’t be inverted yet everything below it will.
 
-{{< youtube "CG0s86rfEII" >}}
+{{< youtube CG0s86rfEII >}}
 
 ## Miscellaneous Effects
 
@@ -105,13 +107,13 @@ This subsection will go over various specific effects that don't have enough inf
 
 What makes the shader triggers even more compelling though is their Strength, Intensity, or Target values. **Typing in a number that goes over the slider limit creates unique shapes and colors that have a near endless amount of possibilities.** Levels like Out of This World by Perox8, Metamorphosis by Blogde, Wulzy’s pixelate level, and a recent part in my solo, take advantage of these mechanics to create wonky structures.
 
-{{< youtube "4PrvVO8c4mM" >}}
+{{< youtube 4PrvVO8c4mM >}}
 
-{{< youtube "9AuptH4fElM" >}}
+{{< youtube 9AuptH4fElM >}}
 
-{{< youtube "nOQURadITc4" >}}
+{{< youtube nOQURadITc4 >}}
 
-{{< youtube "toYzkwGtKZE" >}}
+{{< youtube toYzkwGtKZE >}}
 
 Unfortunately, one limitation that they have is that individual shaders can’t go on different layers, so *all of your shader effects will go on the same layer*. You can’t really have more than one unique shader effect going on unless you combine them.
 
@@ -121,17 +123,17 @@ Unfortunately, one limitation that they have is that individual shaders can’t 
 
 Once you think about all the things you could do with this, you will have ideas for weeks. For example, my collab part here uses Area Scale to seemingly make the structures melt into place, and also uses Area Tint to bring a splash of color to the edges of the screen.
 
-{{< youtube "TxkfKK1-w20" >}}
+{{< youtube TxkfKK1-w20 >}}
 
 Here is another part I made, where the vertices of the Gradient triggers moved around randomly to create a floating vibe.
 
-{{< youtube "AB2qkjRym3o" >}}
+{{< youtube AB2qkjRym3o >}}
 
 **[Animated objects](/docs/guides/deco-1/animated-objects/)** when scaled up, feature unique shapes and movements that can be used to your advantage. You could have bright periodic flashes by slowing them down and putting them on a bright, low-opacity color, or have them animate really fast on really low opacity on top of everything to convey texture. Here are two parts that use animated objects to their advantage.
 
 {{< youtube id="HxzcrtNtYw0" start="66" >}}
 
-{{< youtube "Kxerg414Ikk" >}}
+{{< youtube Kxerg414Ikk >}}
 
 The second example also acts as an example of Area triggers, as the structure's outlines randomly move into place.
 
@@ -139,11 +141,11 @@ The second example also acts as an example of Area triggers, as the structure's 
 
 * This example was used previously, but the background of this part is entirely made out of one particle object. I did this by randomizing almost every option in order to make the background chaotic.
 
-{{< youtube "AB2qkjRym3o" >}}
+{{< youtube AB2qkjRym3o >}}
 
 * This first part uses a mix of Gradient triggers, Area triggers, and the Particle Editor. It may be extremely hard to see the Particle Editor's influence on this part, but there is a blending overlay on top of everything that makes the part much more colorful. I have attached a screenshot below which hopefully allows you to see a red and green particle above everything.
 
-{{< youtube "GEK-YaNfljw" >}}
+{{< youtube GEK-YaNfljw >}}
 
 {{< img src="https://lh3.googleusercontent.com/d/1lg1L9Q3U69gYVpFviSGeGHS6i2qQmeXs" >}}
 
@@ -159,7 +161,7 @@ Neither of these illusions give you any clues on the actual movement that is goi
 
 HOW by Spu7nix explores this idea on the cylinders in the background. It uses various different patterns that go up and down to create the illusion of the cylinder rotating.
 
-{{< youtube "UKqMBAxxun8" >}}
+{{< youtube UKqMBAxxun8 >}}
 
 There is a category of effects called **manual effects**, which as the name suggests, are made manually. These effects (like lens flare, glow lasers, and impact frames) are used mainly to enhance artworks and don’t involve a core GD mechanic. This guide won’t go over these in detail as there is a lot of nuance behind them.
 
@@ -177,17 +179,17 @@ Most effect ideas start off as pure **concepts**. **These are features of the ed
 
 Let's make an example. You could start with this editor fact: *blending objects are invisible on top of a white background*. This concept gives lots of options to expand on. For instance, you could pulse the background to a different color to peek through the blending overlay, or you could use low-opacity particle objects to give everything a texture that won’t show up in the background. You can consider every possibility and pick the one that fits your level the best. Below are two examples that use the same concept but expand in different directions, creating a different effect.
 
-{{< youtube "HMKmJwdMMTQ" >}}
+{{< youtube HMKmJwdMMTQ >}}
 
 {{< youtube id="ClHHB4a2ez0" start="61" >}}
 
 Here is another example of building on a concept. Using long rotating rectangles with the same color allows for interesting patterns to come up beneath them. My friend first used this technique in the first video below, and I later drew inspiration from it for the background in the next video. *Keep in mind that I took the idea and expanded on it, rather than outright stealing it.*
 
-{{< youtube "Dc_maHy2hh0" >}}
+{{< youtube Dc_maHy2hh0 >}}
 
 Example 2 (Start)
 
-{{< youtube "ClHHB4a2ez0" >}}
+{{< youtube ClHHB4a2ez0 >}}
 
 Now that you know what your effect does and how it works, you should start brainstorming *how to apply it to your level*. This is where the trigger stuff comes in and where things may start breaking; this process will vary depending on the effect. Here are some tips below anyway:
 
