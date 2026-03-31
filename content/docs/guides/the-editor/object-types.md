@@ -2,6 +2,7 @@
 title: Object Types
 weight: 1080
 date: 2024-04-28T00:00:00.000Z
+description: There are lots of object types in Geometry Dash, and this guide will go over them.
 authors:
   - illusion2
 contributors:
@@ -25,6 +26,10 @@ seo:
 {{< /callout >}}
 
 ** **
+
+Objects are located in the tabs at the top of the head-up display (HUD) bar.
+
+{{< img src="https://lh3.googleusercontent.com/d/1AaQrRnFSTB4ULDrG46xNbYTlTCunak7z" >}}
 
 # 1: Different Types of Objects
 

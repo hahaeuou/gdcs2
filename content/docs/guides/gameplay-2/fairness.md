@@ -2,6 +2,7 @@
 title: Fairness
 weight: 7090
 date: 2024-07-31T00:00:00.000Z
+description: When you think of playing a level, you would expect it to be enjoyable to play and even if you die multiple times, you can get right back into the level without any hassle. Sometimes these ideas aren’t met and you end up with unfair or otherwise unenjoyable gameplay. In this guide, we will look at the concept of fairness and how it applies to your gameplay.
 authors:
   - tdp9
 contributors:
@@ -46,5 +47,5 @@ Though fairness might make levels more enjoyable, there can be drawbacks. Giving
 
 Overall, fairness is difficult to keep at a balance. You want to make an enjoyable level most people will have a good time with. However, you don’t want to lose sight of what your level should be.
 
-{{< youtube kVZojmhE_-g >}} 
+{{< youtube kVZojmhE_-g >}}
 

@@ -2,6 +2,7 @@
 title: Making Duals
 weight: 4210
 date: 2024-10-14T00:00:00.000Z
+description: Duals have a lot of use and versatility in Geometry Dash, yet they can also be some of the most annoying aspects of creating gameplay. This guide explains the types of duals you can create and some interesting uses for them.
 authors:
   - e.clypse
   - naem.less
@@ -21,27 +22,26 @@ draft: false
 {{< /callout >}}
 
 ** **
-Dual is a unique gamemode that opens up a slew of new gameplay ideas and mechanics. In this guide we will go through each important mechanic, explain how it works, and how to set it up effectively.
 
-# 2: How Duals Work
+# 1: How Duals Work
 
 Duals function much the same as single gamemode play. The moment you enter the dual portal, _two icons will appear, and both icons will react when you click_. By default, each icon’s gravity is the inverse of the other; that is, one icon has normal gravity while the other one has inverted gravity. Also, when one icon changes its gravity, the other will automatically do as well. This gravity dependency can be changed, but that will be discussed in a later section.
 
 Now, the two icons don’t need to be on the same gamemode necessarily, *each one can be a different gamemode as well!* This is where the real fun starts when building duals. This also means that each icon can now have its own independent gravity. For example, you could have a ship and cube dual where both icons can have the same gravity, but you could also have two cubes in a dual where they have opposite gravity of each other. Do note however that only cube and wave still share their gravity because Robtop somehow coded it that way. All other gamemode combinations will have independent gravity.
 
-# 3: Dual Types
+# 2: Dual Types
 
 ## Symmetrical Duals
 
 **Symmetrical duals** refers to _dual gameplay where both icons follow the same path and are the same gamemode_, meaning that the bottom icon and top icon mirror each other’s movements. An example of this can be seen at 28-43% in Verdant Landscape by Nisha. This is the easiest form of dual gameplay to build, as most of the time you only need to create gameplay for one icon and then copy paste this gameplay for the other one.
 
-{{< youtube dSbox0NKuXs >}} 
+{{< youtube dSbox0NKuXs >}}
 
 ## Asymmetrical Duals
 
 **Asymmetrical duals** refers to _dual gameplay where each icon follows its own path_. You can make this either where both icons are the same gamemode or different ones. It is easier and more common to use different gamemodes, because that way there is more versatility in what you can do. An example of this can be seen at 34-43% in Diligence by Davphla and more. You can see the icons are sometimes different gamemodes and sometimes the same, but follow different paths.
 
-{{< youtube OyWM-uXuuqU >}} 
+{{< youtube OyWM-uXuuqU >}}
 
 ## 2 Player Gameplay
 
@@ -50,15 +50,15 @@ Now, the two icons don’t need to be on the same gamemode necessarily, *each on
 The 2-player mode is mostly used for minigames that require multiple inputs, especially in 2.1. For instance, levels like Floating Outskirts by YoReid, Area Tracer by GDvesuvius, and Geo Kart by Incidius utilize this mechanic.
 You can also use 2 player controls in a more conventional way and make (a)symmetrical duals if you don't fancy yourself a trigger person. An example of a level like this is Codependence by TCTeam, where each icon is controlled individually.
 
-{{< youtube lYswi_4FrcM >}} 
+{{< youtube lYswi_4FrcM >}}
 
-{{< youtube GuDam2WUoNs >}} 
+{{< youtube GuDam2WUoNs >}}
 
-{{< youtube kZzp_QeahS0 >}} 
+{{< youtube kZzp_QeahS0 >}}
 
-{{< youtube ti5G-c3wcM0 >}} 
+{{< youtube ti5G-c3wcM0 >}}
 
-# 4: Building Dual Gameplay
+# 3: Building Dual Gameplay
 
 Now that we have gone over the basics of the 3 main dual types, it is time we go over how to build dual gameplay.
 
@@ -74,7 +74,7 @@ In the example below you can see that if you only focus on the ufo, you will pas
 
 None
 
-# 5: Dual Borders
+# 4: Dual Borders
 
 By default, the dual gamemode is 9 blocks tall. This distance can vary depending on what gamemode the icons are, and if they are currently on the same gamemode or not. Ship, Wave, UFO and Swing change this height to 10 blocks and the rest stay as 9.
 
@@ -84,13 +84,13 @@ Now, having such little space can be restricting, which is why you can use the c
 
 Note that if you enabled Free Mode on a dual portal, *you also need to do this for every gamemode change within the dual as well*, otherwise the borders will come back again. Also note that when using Free Mode, the camera will always follow player 1. If you want the camera to follow player 2, you will need to use an Advanced Follow trigger to lock an object to player 2, and then use a static camera trigger set to follow that object.
 
-# 6: Offset Duals
+# 5: Offset Duals
 
 In update 2.1, if you wanted to separate the two icons in a dual across the x axis, you needed to use a bug.There were several ways to do it, all of them meticulous to set up; one method even required hundreds of slopes to separate the duals.
 
 Now with the Teleport trigger, unlinked Teleport portals and the Teleport orb, you can create this setup very easily across any speed you want to anywhere in the level. You can also use a spawn loop, where you constantly teleport player 2 to an object using a Teleport trigger. By moving around this object, you are essentially controlling where player 2 goes as well. This is mainly used for visuals though, such as Angel GD’s part in Resonance hosted by Human.
 
-{{< youtube gNeCvicI6CA >}} 
+{{< youtube gNeCvicI6CA >}}
 
 ## How to Build Offset Duals
 
@@ -100,7 +100,7 @@ As you can see in the example below, the focus starts off on the bottom icon so 
 
 None
 
-# 7: Advanced Dual Gimmicks
+# 6: Advanced Dual Gimmicks
 
 With the introduction of the Options trigger, Gravity trigger, Teleport trigger and Arrow trigger, you are able to do stuff with duals that weren’t previously possible. You can for instance:
 - Give each icon independant gravity even if they are in the same gamemode.
@@ -144,4 +144,4 @@ Working with this gimmick is quite complicated due to them going in different di
 
 Probably the most popular level that uses Arrow trigger duals is Out Of This World by Perox08. Another example but with different gamemodes is [Magic Touch](https://cdn.discordapp.com/attachments/1195352304136749087/1281069228962873416/youtube-KW7tPgRYz0M.mp4?ex=66dc5a71&is=66db08f1&hm=37759352e73db15d5b7fe9696955eba13905b6887f8e825496e2f4be8b01ab68&) by DawuU.
 
-{{< youtube 9AuptH4fElM >}} 
+{{< youtube 9AuptH4fElM >}}

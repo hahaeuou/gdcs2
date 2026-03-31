@@ -2,6 +2,7 @@
 title: Mechanics 3 (Feedback)
 weight: 7030
 date: 2025-03-01T00:00:00.000Z
+description: This guide explains what feedback is, why it's necessary, and how it can greatly influence your mechanics. Also goes over advanced applications which influence things like engagement and learning curves.
 authors:
   - illusion2
 contributors:

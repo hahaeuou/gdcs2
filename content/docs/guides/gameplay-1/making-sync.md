@@ -2,6 +2,7 @@
 title: Making Sync
 weight: 4140
 date: 2025-01-14T00:00:00.000Z
+description: Sync is one of the most intuitive appeal factors in gameplay. As such, it's important that you understand how to introduce sync in your gameplay. This guide will explain how you can create sync using the tools in the editor.
 authors:
   - e.clypse
 contributors:
@@ -18,6 +19,9 @@ draft: false
 {{< /callout >}}
 
 ** **
+
+One of Geometry Dash’s core mechanics is the inclusion of music to go along with the gameplay; it helps keep the experience engaging for the player. You may notice that elements in the song sometimes line up with visuals or mechanics in a level, which is referred to as sync. In this guide, we will cover why it matters, how to properly sync gameplay to the music, and what things to consider when making sync.
+
 # 1: Why does sync matter?
 
 Sync is an essential component for classic gameplay, since it keeps the level engaging for the player. It’s also useful for giving the player a “foundation” for their clicks.

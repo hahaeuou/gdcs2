@@ -2,6 +2,7 @@
 title: Creating Gameplay
 weight: 4060
 date: 2024-11-30T00:00:00.000Z
+description: This guide explains the process of creating gameplay. Topics of discussion include finding inspiration, making gameplay based on click patterns, organizing gameplay layers, and a basic rundown of the types of gameplay found in the "Types of Gameplay" unit.
 authors:
   - mesoionosphere
 contributors:
@@ -19,6 +20,12 @@ draft: false
 {{< /callout >}}
 
 ** **
+
+Gameplay is pretty self-explanatory: **it's what the player plays when they engage with the level**, I'm sure this is a shocker.
+
+This guide seeks to give you a basic understanding of what the process of making quality gameplay could look like. This will be structured sort of like a build-along, as I build a solo layout with the procedure outlined in this guide.
+
+It is important to note that this guide should be taken as a pointer in the right direction, but not as a cold hard fact that one must abide by. Gameplay has rules that are meant to be broken, so my advice is to follow this guide to get a solid foundation of gameplay, and then when you start to get comfortable, you can start to break the mold and make something truly yours!
 
 # 1: Before You Build
 

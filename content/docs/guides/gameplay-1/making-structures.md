@@ -2,6 +2,7 @@
 title: Making Structures
 weight: 4180
 date: 2023-07-12T00:00:00.000Z
+description: Have you ever seen players complain about readability in a level? While a big part of unreadability stems from the decoration and gameplay itself, bad structuring can also make the level seem more messy and hence, unreadable. In this guide, we'll explore the reasons why good structuring can elevate a level's quality.
 authors:
   - komatic5
 contributors:

@@ -2,6 +2,7 @@
 title: Speedcore Gameplay
 weight: 7220
 date: 2024-05-15T00:00:00.000Z
+description: Speedcore gameplay is a genre of gameplay that’s focused on speed and intensity. It is usually accompanied by a song with a high BPM. This style of gameplay is heavily focused on song representation and matching the atmosphere of the music. This guide will investigate the main features of speedcore gameplay and how it can be accomplished.
 authors:
   - illusion2
 contributors:
@@ -20,6 +21,7 @@ draft: false
 {{< /callout >}}
 
 ** **
+
 # 1: Fundamentals
 
 When making speedcore gameplay, there are some things that you must know. These things will help you **understand the concept** of speedcore itself as well as how to properly create it. *However, please keep in mind that these fundamentals are not set in stone;* Geometry Dash’s editor is a sandbox game, so you can always **bend the rules if it fits your needs.** Most of the rules of fast-paced gameplay apply here as well, so take note of that too.
@@ -55,6 +57,21 @@ You’ll notice that a lot of speedcore layouts online have duals and waves, bec
 Waves on the other hand are a lot more fun because they are snappy like the spider, but it doesn’t require player input to do so. The waves have solid trails, which creators often abuse to make dynamic patterns. Combine these two traits and you can understand that wave is one of the most versatile gamemodes for speedcore. You should still be careful with them, however. If you plan to click in them, it should be a buffer into the wave portal or a setup where the player is in the same spot on all attempts. If you’re going to be doing cool stuff with the wave, things can easily break if the player’s location isn’t consistent.
 
 {{< img src="https://lh3.googleusercontent.com/d/1aKkEnxmga7lDOwt-dx7A_uHPdT90UUUH" >}}
+
+## Pros & Cons
+
+Speedcore is more risk-reward; it’s one of the best in some areas but one of the worst in others.
+
+**Pros**<br>
+- Intensity: One of the most intense gameplay genres is speedcore.
+- Satisfaction: Speedcore gameplay is visually daunting, which makes it feel really good once you’ve nailed it down.
+- Ordered Chaos: Speedcore nails the chaotic feel and is perfect for when you want this atmosphere.
+
+**Cons**<br>
+- Readability: You have to sacrifice almost all of your readability for speedcore.
+- Simplicity: Sometimes you’d want to aim for a simple drop. However, speedcore is the opposite of simple.
+
+You should keep in mind all of these factors before creating a speedcore section. Speedcore usually works in a more niche environment, meaning that it isn’t necessary to put a speedcore part everywhere.
 
 # 2: Thought Process
 

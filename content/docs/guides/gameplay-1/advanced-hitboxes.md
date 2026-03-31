@@ -2,6 +2,7 @@
 title: Advanced Hitboxes
 weight: 4090
 date: 2023-11-01T00:00:00.000Z
+description: Have you ever wondered when you hit a spike in an unconventional way you die, or wonder why the latter happened when you clearly hit a spike? These scenarios happen due to quirks in how the game handles object collisions. In this guide, we will learn how GD handles said collisions, the perks of having this system, and how you can use this to your advantage to get a desired difficulty.
 authors:
   - mateussdev
 contributors:

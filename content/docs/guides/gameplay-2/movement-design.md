@@ -2,6 +2,7 @@
 title: Movement Design
 weight: 7190
 date: 2024-11-30T00:00:00.000Z
+description: Movement is a core aspect of any game, and can make or break a game’s immersion and enjoyability. This guide will cover many fundamental details in the process of designing good movement systems.
 authors:
   - interestex
 contributors:

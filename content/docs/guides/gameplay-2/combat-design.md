@@ -2,6 +2,7 @@
 title: Combat Design
 weight: 7200
 date: 2024-09-06T00:00:00.000Z
+description: Combat is an extremely nuanced topic with lots of important concepts tied to it. This guide will help you identify what you want to do with your combat, make the player want to actually fight enemies, create action while they’re in a battle, design attacks to make your system fun to use, encourage players to strategize in/out of combat and design enemies to enhance the combat system. This guide will be somewhat oriented toward real-time combat, but almost all of these concepts apply to turn-based combat and strategy games too.
 authors:
   - illusion2
 contributors:
@@ -27,6 +28,9 @@ draft: false
 {{< /callout >}}
 
 ** **
+
+Before we begin, you may notice this is a long guide. Don’t let this scare you into saying “I ain’t readin allat”, because not every single part of this guide matters towards a good combat system. You don’t need highly strategic teambuilding in a cute relaxing game or lots of fast paced action in a turn based game. Don’t try to shove in concepts covered in this guide if they don’t fit in your level, rather treat this guide as a textbook; it contains almost every facet to making an extremely good combat system, but you should read the parts that interest you over time rather than sitting through the whole guide in one session. Also, this guide is made to help you refine and add onto your combat system, not make one from scratch. You’d need to have a starting vision for your combat system first, which is what this next beginning section is about.
+
 # 1: Knowing Your Goal
 
 Knowing what your combat system should do is extremely important, as combat comes in all kinds of forms and has various different purposes. This section will cover how you can identify the purpose of your combat system and how you can use it to design the system.

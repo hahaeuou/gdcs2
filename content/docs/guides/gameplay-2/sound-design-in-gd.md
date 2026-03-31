@@ -2,6 +2,7 @@
 title: Sound Design in GD
 weight: 7130
 date: 2024-09-06T00:00:00.000Z
+description: Making sound effects to include in your level will make the experience much more immersive. This guide will explain how to find sound effects to fit your level.
 authors:
   - electrifyxd
 contributors:
@@ -18,15 +19,19 @@ draft: false
 {{< /callout >}}
 
 ** **
+If you've ever played [Between Worlds](https://www.youtube.com/watch?v=Hg-YzsRDhG8) by xXLOCOXx, you may have noticed how it cleverly uses sound effects to add to the level’s worldbuilding.
+
+{{< youtube Hg-YzsRDhG8>}}
+
 What not a lot of people know is that the song was specially made to accomplish this. This level uses a custom song with various sound effects to incorporate layers of atmosphere into the level, and it does that wonderfully. This isn't the only level to use sound design to its advantage, as there are plenty of other levels that use custom sound effects and songs, such as Apeirophobia by Ph4lip and Anarchy Road by komatic5. But what exactly IS sound design?
 
 Well, to put it simply, **sound design** is __the art of making sounds for any kind of audio and visual media, such as film, music, and in this case, video games__!
 
 There are two ways of incorporating your own sounds for your GD Level:
 
-{{< youtube p-BUROO_-z0 >}} 
+{{< youtube p-BUROO_-z0 >}}
 
-{{< youtube tRXA8FqUCds >}} 
+{{< youtube tRXA8FqUCds >}}
 
 # 1: Making Custom Sounds
 
@@ -88,4 +93,6 @@ Furthermore, I can enable FFT to stretch the audio without having it sound digit
 
 {{< img src="https://lh3.googleusercontent.com/d/1o1ApAT2sJk2ELDqcsH5d5h7G5O1RPNkK" >}}
 
-And… voila! Now this sounds precisely like what I wanted out of my “Bald Eagle” calling sound effect, and I can finally use it for my [**TOTALLY AMERICAN-THEMED GD LEVEL!!!**](https://cdn.discordapp.com/attachments/396504131088547842/1273911990607417365/2024-08-16_03-50-29.mp4?ex=66c0567e&is=66bf04fe&hm=09e2779be1acde45f65795f6f8c73015ba9deab1c5b7f0c13e4ddeaca2d44f47&)
+And… voila! Now this sounds precisely like what I wanted out of my “Bald Eagle” calling sound effect, and I can finally use it for my **TOTALLY AMERICAN-THEMED GD LEVEL!!!**
+
+(video to be added)

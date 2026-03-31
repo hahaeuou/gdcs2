@@ -2,6 +2,7 @@
 title: Basic Sound Design
 weight: 7140
 date: 2025-03-01T00:00:00.000Z
+description: This guide explains how you can create basic sounds using a DAW, also known as an external audio-editing program.
 authors:
   - electrifyxd
 contributors:
@@ -18,6 +19,9 @@ draft: false
 {{< /callout >}}
 
 ** **
+
+Now that we understand how to upload our own sounds to Geometry Dash, it’s time to actually create these sounds. The most common way to make sounds is through a program called a Digital Audio Workstation, or DAW for short. A **DAW** is a **device used for creating audio files such as soundtracks or audio editing**. Any program that supports .vst or .vst3 plugins will be sufficient, with some examples being Ableton Live, Reaper, and Bitwig, but for this guide FL Studio will be our DAW of choice. Using the “Vital” plugin is recommended as it is free to use and covers all the content provided in this section.
+
 # 1: Installing Plugins
 
 To install plugins on FL Studio, make sure to have a .vst3 or .vst file prepared. On the top-left hand side of the UI, go to Options > “Manage Plugins”. This will open up the Plugin Manager window.

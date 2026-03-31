@@ -2,6 +2,7 @@
 title: Mechanics 4 (Decision-Making)
 weight: 7040
 date: 2025-03-01T00:00:00.000Z
+desccription: This guide explains different kinds of choices (obvious, uninformed, and interested), how you can promote further strategy with tradeoffs, and the concept of Risk vs Reward.
 authors:
   - intercomprehensible
 contributors:

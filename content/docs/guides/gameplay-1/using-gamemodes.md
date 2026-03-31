@@ -2,6 +2,7 @@
 title: Using Gamemodes
 weight: 4010
 date: 2025-03-01T00:00:00.000Z
+description: Choosing gamemodes and gameplay elements for your levels is an important process, but one which many people mess up nonetheless. This guide will prepare you to use gamemodes properly.
 authors:
   - illusion2
 contributors:
@@ -18,6 +19,8 @@ draft: false
 {{< /callout >}}
 
 - - -
+
+# 1: Introduction
 
 One of the most crucial parts of gameplay in Geometry Dash is knowing *how to use gamemodes*. These dictate how the player navigates levels, as well as the entire feeling of a part or level. As such, gamemode use can massively impact how fun or frustrating a level is.
 

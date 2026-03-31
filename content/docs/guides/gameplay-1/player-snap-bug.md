@@ -2,6 +2,7 @@
 title: Player Snap Bug
 weight: 4120
 date: 2023-11-30T00:00:00.000Z
+description: Player snapping is a bug which is used frequently for separating duals, but has a lot of use cases beyond that. This guide explains how you can use the Snap Bug to its full effectiveness.
 authors:
   - joe_white
   - mateussdev
@@ -21,6 +22,9 @@ draft: false
 {{< /callout >}}
 
 ** **
+
+Have you wondered how those fancy dual-separation parts work? Do you want to know how to move the player in any direction horizontally as if you are using 2.2 features in 2.1? Well, this guide will show you the wonderful world of Snap Bugs!
+
 # 1: Introduction
 
 The **Snap bug** is an obscure mechanic that RobTop implemented for jumping staircases to function properly.
@@ -87,7 +91,7 @@ Upside down gravity:
 
 **NOTE:** This setup above is highly FPS dependent, meaning the player will move forward on a larger distance on higher FPS than on lower FPS due to the fact that more FPS has more subframes. Tax Evasion by Skub uses a more stable but inconsistent setup that is not FPS dependent.
 
-{{< youtube oeIzV2SgZFY >}} 
+{{< youtube oeIzV2SgZFY >}}
 
 The setup is shown below.
 

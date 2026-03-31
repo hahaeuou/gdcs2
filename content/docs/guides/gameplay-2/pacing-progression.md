@@ -2,6 +2,7 @@
 title: Pacing & Progression
 weight: 7070
 date: 2023-06-26T00:00:00.000Z
+description: Pacing is the frequency at which things happen in gameplay, and is how you capture and maintain the player’s attention. It’s tied to many factors you might think are important for good gameplay, like sync. This guide will describe how you can develop pacing through the individual clicks at your level.
 authors:
   - komatic5
 contributors:

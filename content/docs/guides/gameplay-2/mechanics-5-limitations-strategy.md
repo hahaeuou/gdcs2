@@ -2,6 +2,7 @@
 title: Mechanics 5 (Limitations & Strategy)
 weight: 7050
 date: 2024-10-15T00:00:00.000Z
+description: Designing mechanics involves heavy nuance behind connecting major principles of strategic gameplay. This guide will help you apply the concept of limitations to creating strategic mechanics and gameplay.
 authors:
   - illusion2
 contributors:
@@ -21,7 +22,6 @@ draft: false
 {{< /callout >}}
 ** **
 
-Designing mechanics involves heavy nuance behind connecting major principles of strategic gameplay. This guide will help you apply the concept of limitations to creating strategic mechanics and gameplay.
 
 # 1: Limitations
 

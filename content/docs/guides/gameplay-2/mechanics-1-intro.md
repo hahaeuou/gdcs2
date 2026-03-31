@@ -2,6 +2,7 @@
 title: Mechanics 1 (Intro)
 weight: 7010
 date: 2023-04-24T00:00:00.000Z
+description: This guide explains what mechanics are, how they relate to player skill, and how best to introduce them to the player in your gameplay.
 authors:
   - komatic5
 contributors:

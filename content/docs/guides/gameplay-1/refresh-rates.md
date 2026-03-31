@@ -2,6 +2,7 @@
 title: Refresh Rates
 weight: 4210
 date: 2023-03-18T00:00:00.000Z
+description: Refresh Rates are an integral part of how Geometry Dash physics work. As such, it's important to understand how refresh rates work when making gameplay.
 authors:
   - unknown
 contributors:

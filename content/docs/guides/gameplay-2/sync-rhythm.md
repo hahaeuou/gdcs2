@@ -2,6 +2,7 @@
 title: Note Representation
 weight: 7080
 date: 2025-11-15T00:00:00.000Z
+description: This guide explains how to use sync to develop engagement (impact types, movements). Also explains what rhythm is, what goes into a good click pattern (focusing on an instrument, which beats in a measure are strongest, etc.), and how you can use repetition to enhance your rhythm.
 authors:
   - illusion2
 contributors:
