@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Mechanics 3 (Feedback)
 weight: 7030
 date: 2025-03-01T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - illusion2
   - sparktwee
-draft: false
+tags:
+  - Grade 2
+  - Mechanics
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

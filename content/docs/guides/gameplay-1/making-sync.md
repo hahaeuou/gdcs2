@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Making Sync
 weight: 4140
 date: 2025-01-14T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - e.clypse
   - notamoderatr
-draft: false
+tags:
+  - Grade 1
+  - Types of Gameplay
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

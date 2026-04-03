@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Mechanics 2 (Gameplay Loops)
 weight: 7020
 date: 2023-12-26T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - etherail
   - komatic5
-draft: false
+tags:
+  - Grade 2
+  - Mechanics
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

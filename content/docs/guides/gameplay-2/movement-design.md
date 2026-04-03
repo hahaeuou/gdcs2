@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Movement Design
 weight: 7190
 date: 2024-11-30T00:00:00.000Z
@@ -9,7 +10,9 @@ contributors:
   - interestex
   - illusion2
   - psytrancegd
-draft: false
+tags:
+  - Grade 2
+  - Game Design
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

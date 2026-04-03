@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Making Slow Gameplay
 weight: 4170
 date: 2023-07-25T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - halfcookedramen
   - komatic5
-draft: false
+tags:
+  - Grade 1
+  - Types of Gameplay
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Making Platformer Gameplay
 weight: 4190
 date: 2025-03-31T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - notamoderatr
   - styphontv
-draft: false
+tags:
+  - Grade 1
+  - Types of Gameplay
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

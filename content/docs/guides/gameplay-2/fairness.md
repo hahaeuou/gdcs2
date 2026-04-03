@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Fairness
 weight: 7090
 date: 2024-07-31T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - notamoderatr
   - tdp9
-draft: false
+tags:
+  - Grade 2
+  - Gameplay Pacing
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

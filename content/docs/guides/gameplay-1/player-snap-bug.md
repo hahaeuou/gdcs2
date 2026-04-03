@@ -1,6 +1,7 @@
 ---
+draft: false
 title: Player Snap Bug
-weight: 4120
+weight: 4240
 date: 2023-11-30T00:00:00.000Z
 description: Player snapping is a bug which is used frequently for separating duals, but has a lot of use cases beyond that. This guide explains how you can use the Snap Bug to its full effectiveness.
 authors:
@@ -10,7 +11,9 @@ contributors:
   - tv_box
   - joe_white
   - mateussdev
-draft: false
+tags:
+  - Grade 1
+  - Gameplay Features
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

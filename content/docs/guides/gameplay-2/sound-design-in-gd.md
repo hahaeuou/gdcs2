@@ -1,6 +1,7 @@
 ---
+draft: false
 title: Sound Design in GD
-weight: 7130
+weight: 7220
 date: 2024-09-06T00:00:00.000Z
 description: Making sound effects to include in your level will make the experience much more immersive. This guide will explain how to find sound effects to fit your level.
 authors:
@@ -8,7 +9,9 @@ authors:
 contributors:
   - electrifyxd
   - psytrancegd
-draft: false
+tags:
+  - Grade 2
+  - Sound Design
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

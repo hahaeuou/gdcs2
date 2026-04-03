@@ -1,6 +1,7 @@
 ---
+draft: false
 title: Scroll Speed Bug
-weight: 4110
+weight: 4235
 date: 2023-12-16T00:00:00.000Z
 description: The Scroll Speed Bug is something you'll encounter when making very long levels, and it's impossible to fix. However, it's still important to know about as you create. This guide explains everything you need to know about the Scroll Speed Bug.
 authors:
@@ -10,7 +11,9 @@ contributors:
   - tv_box
   - mateussdev
   - unknown
-draft: false
+tags:
+  - Grade 1
+  - Gameplay Features
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

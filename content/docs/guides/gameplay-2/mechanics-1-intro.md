@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Mechanics 1 (Intro)
 weight: 7010
 date: 2023-04-24T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - komatic5
   - notamoderatr
-draft: false
+tags:
+  - Grade 2
+  - Mechanics
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

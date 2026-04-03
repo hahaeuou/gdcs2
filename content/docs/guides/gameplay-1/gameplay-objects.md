@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Gameplay Objects
 weight: 4020
 date: 2025-01-16T00:00:00.000Z
@@ -9,7 +10,9 @@ authors:
 contributors:
   - sparktwee
   - xplode09
-draft: false
+tags:
+  - Grade 1
+  - Gameplay Basics
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

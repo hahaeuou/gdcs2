@@ -1,6 +1,7 @@
 ---
+draft: false
 title: Basic Sound Design
-weight: 7140
+weight: 7225
 date: 2025-03-01T00:00:00.000Z
 description: This guide explains how you can create basic sounds using a DAW, also known as an external audio-editing program.
 authors:
@@ -8,7 +9,9 @@ authors:
 contributors:
   - electrifyxd
   - notamoderatr
-draft: false
+tags:
+  - Grade 2
+  - Sound Design
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

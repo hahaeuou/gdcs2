@@ -1,6 +1,7 @@
 ---
+draft: false
 title: Making Duals
-weight: 4210
+weight: 4185
 date: 2024-10-14T00:00:00.000Z
 description: Duals have a lot of use and versatility in Geometry Dash, yet they can also be some of the most annoying aspects of creating gameplay. This guide explains the types of duals you can create and some interesting uses for them.
 authors:
@@ -10,7 +11,9 @@ contributors:
   - chuckolate
   - e.clypse
   - naem.less
-draft: false
+tags:
+  - Grade 1
+  - Types of Gameplay
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

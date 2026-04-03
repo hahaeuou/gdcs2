@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Mechanics 5 (Limitations & Strategy)
 weight: 7050
 date: 2024-10-15T00:00:00.000Z
@@ -10,7 +11,9 @@ contributors:
   - psytrancegd
   - everedeck
   - themilkcat_tmc
-draft: false
+tags:
+  - Grade 2
+  - Mechanics
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

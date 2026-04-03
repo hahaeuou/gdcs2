@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Bossfight Design
 weight: 7210
 date: 2024-09-18T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - illusion2
   - psytrancegd
-draft: false
+tags:
+  - Grade 2
+  - Game Design
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

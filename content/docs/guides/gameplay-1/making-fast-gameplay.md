@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Making Fast Gameplay
 weight: 4160
 date: 2024-11-30T00:00:00.000Z
@@ -10,7 +11,9 @@ contributors:
   - kbtrains
   - illusion2
   - notamoderatr
-draft: false
+tags:
+  - Grade 1
+  - Types of Gameplay
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

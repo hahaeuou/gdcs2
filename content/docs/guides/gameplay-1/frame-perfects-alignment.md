@@ -1,6 +1,7 @@
 ---
+draft: false
 title: Frame Perfects & Alignment
-weight: 4100
+weight: 4220
 date: 2024-01-01T00:00:00.000Z
 description: Frame perfects are one of the most notorious forms of difficulty to arise in the past few years, and they can also be easy to mess up due to their nature. This guide explains how you can create and properly playtest frame perfects in your levels.
 authors:
@@ -8,7 +9,9 @@ authors:
 contributors:
   - mateussdev
   - notamoderatr
-draft: false
+tags:
+  - Grade 1
+  - Gameplay Features
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

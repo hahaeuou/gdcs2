@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Creating Gameplay
 weight: 4060
 date: 2024-11-30T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - chuckolate
   - mesoionosphere
-draft: false
+tags:
+  - Grade 1
+  - Gameplay Basics
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Using Gamemodes
 weight: 4010
 date: 2025-03-01T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - komatic5
   - illusion2
-draft: false
+tags:
+  - Grade 1
+  - Gameplay Basics
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
