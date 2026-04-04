@@ -38,15 +38,15 @@ tags:
 
 **Orbs** **activate when the player *clicks* while touching them**, while **pads** **activate if the player touches them**. You can also keep jumping after touching an orb or pad, provided you hold down the input button after interacting with them. These are the possible types that you can place:
 
-* Pink orbs and pads give the lowest jump boost to the player; the pad’s boost is slightly shorter than a normal cube jump.
+* **Pink orbs and pads** give the lowest jump boost to the player; the pad’s boost is slightly shorter than a normal cube jump.
 
 {{< img src="https://lh3.googleusercontent.com/d/1m-dD65CoyDUDvUitY3y5i5f8gBt5l9Wx" >}}
 
-* Yellow orbs and pads boost the player; the orb boosts equally to a normal cube jump. The pad was first introduced in Back on Track, while the orb was introduced in Poltergeist.
+* **Yellow orbs and pads** boost the player; the orb boosts equally to a normal cube jump. The pad was first introduced in Back on Track, while the orb was introduced in Poltergeist.
 
 {{< img src="https://lh3.googleusercontent.com/d/1T23uBEL24vl24n-5epw3ogc6A3V5S-jF" >}}
 
-* Red orbs and pads give the highest jump boost to the player; the orb boosts equally to the yellow pad.
+* **Red orbs and pads** give the highest jump boost to the player; the orb boosts equally to the yellow pad.
 
 None
 
